@@ -1,0 +1,13 @@
+
+macro y set browser "youtube-viewer %u"; open-in-browser ; set browser "elinks %u"
+macro o set browser "firefox %u"; open-in-browser ; set browser "elinks %u"
+
+browser "firefox"
+
+auto-reload yes
+notify-program notify-send
+notify-xterm yes
+notify-screen yes
+notify-always yes
+notify-format "newsbeuter: %n unread articles within %f unread feeds"
+refresh-on-startup yes

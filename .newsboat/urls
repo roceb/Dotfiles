@@ -1,0 +1,31 @@
+------------------------------------------------------
+-----------------------Newsfeed-----------------------
+------------------------------------------------------
+
+https://hackaday.com/blog/feed/ "~NEWSFEED: Hackaday"
+http://feeds.arstechnica.com/arstechnica/open-source "~NEWSFEED: ArsTechnica (Open Source)"
+https://hackernoon.com/tagged/coding/feed "~NEWSFEED: Hackernoon Coding"
+https://news.ycombinator.com/rss "~NEWSFEED: Hacker News"
+
+------------------------------------------------------
+-----------------------Reddit-------------------------
+------------------------------------------------------
+
+https://old.reddit.com/r/unixporn.rss "~Reddit Unixporn"
+https://www.reddit.com/r/linux4noobs.rss "~REDDIT: r/linux4noobs"
+https://www.reddit.com/r/linuxquestions.rss "~REDDIT: r/linuxquestions"
+
+-------------------------------------------------------
+-------------------------Git---------------------------
+-------------------------------------------------------
+https://gitlab.com/dwt1.atom "~GITHUB DistroTube"
+https://github.com/alacritty.atom "~GITHUB Alacritty Releases"
+https://github.com/alacritty/alacritty/commits/master.atom "~GITHUB ALacritty Commits"
+https://github.com/polybar/polybar/releases.atom "~GITHUB Polybar Releases"
+https://github.com/conformal/spectrwm/releases.atom "~GITHUB Spectrwm Release"
+
+-------------------------------------------------------
+-----------------------Youtube-------------------------
+-------------------------------------------------------
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCo_IB5145EVNcf8hw1Kku7w "~Game Theory"
