@@ -1,0 +1,121 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/polybar/polybar
+;
+;   The README contains a lot of information
+;
+;==========================================================
+
+[colors]
+background = #2E3440
+background2 = #3b4252
+selection = #b48ead
+;foreground = ${xrdb:foreground:#ff0000}
+foreground = #5e81ac
+separator = #d8dee9
+lightfg = #eceff4
+shade2 = #434c5e
+
+[settings]
+format-background = ${colors.background2}
+format-foreground = ${colors.foreground}
+
+
+[module/wired]
+type = internal/network
+interface = enp0s25
+label-connected = "  "
+format-connected = <label-connected>
+format-connected-background = ${colors.shade2}
+
+
+[module/date]
+type = internal/date
+interval = 1.0
+date = %A, %B %dth
+
+label = %date%
+format-padding = 1
+
+[module/time]
+type = internal/date
+interval = 1.0
+time = " %H:%M "
+time-alt = " %A, %B %dth "
+label = %time%
+format-background = ${colors.background2}
+format-foreground = ${colors.foreground}
+
+
+[module/spectrwm]
+type = internal/xworkspaces
+
+; Only show workspaces defined on the same output as the bar
+;
+; Useful if you want to show monitor specific workspaces
+; on different bars
+;
+; Default: false
+pin-workspaces = true
+
+; Create click handler used to focus desktop
+; Default: true
+enable-click =true
+
+; Create scroll handlers used to cycle desktops
+; Default: true
+enable-scroll = false
+
+[module/ewmh]
+type = internal/xworkspaces
+pin-workspaces = false
+enable-click = true
+enable-scroll = false
+include-file = ~/.config/polybar/ewmh-name
+format = <label-state>
+label-active-padding = 1
+label-active-foreground = ${colors.selection}
+label-active-background = ${colors.background}
+label-occupied-padding = 1
+label-occupied-foreground = ${colors.background2}
+label-urgent-foreground = ${colors.lightfg}
+label-urgent-background = ${colors.shade2}
+label-empty-padding = 1
+;label-empty-foreground = #0000aa
+
+[bar/bar]
+monitor-strict = true
+bottom = true
+modules-center = ewmh
+modules-left = spectrwm
+modules-right = time
+override-redirect = true
+monitor = ${env:MONITOR1}
+background = ${colors.background}
+foreground = ${colors.foreground}
+font-0 = DejaVu Sans Mono:size=10;3
+font-1 = Material Icons:size=10;3
+font-2 = Font Awesome 5 Free:size=10;3
+font-3 = FontAwesome:size=10;3
+height = 24
+tray-position = none
+tray-padding = 4
+
+
+[bar/second]
+inherit = bar/bar
+modules-left = spectrwm
+modules-right = time
+modules-center =
+monitor = ${env:MONITOR2}
+override-redirect = true
