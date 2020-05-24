@@ -2,9 +2,11 @@
 
 ## Programs to install
 
-`mpd ncmpcpp newsboat vim zsh weechat firefox alacritty picom htop rofi nnn mpd mpv nitrogen xorg openvpn`
+`mpd ncmpcpp newsboat vim zsh weechat firefox alacritty htop rofi nnn mpd mpv nitrogen xorg openvpn`
 
 Spotify from the main website `https://www.spotify.com/us/download/other/`
+
+Picom `https://github.com/ibhagwan/picom`
 
 Polybar `https://github.com/polybar/polybar`
 
@@ -18,7 +20,7 @@ Feh `https://github.com/derf/feh`
 
 ## Archlinux specific
 
-`sudo pacman -Syu yaourt a52dec faac faad2 flac jasper lame libdca libdv libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins`
+`sudo pacman -Syu yay a52dec faac faad2 flac jasper lame libdca libdv libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins`
 
 ## Programming requirements
 
@@ -42,7 +44,7 @@ postman
 
 ## Nativefier app
 
-###Plex
+### Plex
 `npx nativefier --name "plex" "https://app.plex.tv/desktop"`
 
 ### Whatsapp
