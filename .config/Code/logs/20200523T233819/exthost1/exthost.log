@@ -1,0 +1,36 @@
+[2020-05-23 23:38:20.557] [exthost] [info] extension host started
+[2020-05-23 23:38:20.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-23 23:38:20.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-23 23:38:20.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-23 23:38:20.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/emmet/dist/extension
+[2020-05-23 23:38:20.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-23 23:38:20.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-05-23 23:38:20.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-23 23:38:20.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-23 23:38:20.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-23 23:38:20.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-23 23:38:20.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-23 23:38:20.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-05-23 23:38:20.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-23 23:38:20.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-23 23:38:20.651] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-05-23 23:38:20.653] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-05-23 23:38:20.667] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-05-23 23:38:20.667] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/eamodio.gitlens-10.2.1/dist/extension
+[2020-05-23 23:38:20.702] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-23 23:38:20.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/esbenp.prettier-vscode-4.7.0/dist/extension
+[2020-05-23 23:38:20.800] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-23 23:38:20.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-23 23:38:20.813] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-05-23 23:38:20.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-05-23 23:38:20.814] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-05-23 23:38:20.815] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-05-23 23:38:21.055] [exthost] [info] eager extensions activated
+[2020-05-23 23:38:21.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-05-23 23:38:21.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-05-23 23:38:30.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-23 23:38:30.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-23 23:38:30.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-23 23:38:30.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-23 23:38:30.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-23 23:38:30.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ross/Programming/packages/VSCode-linux-x64/resources/app/extensions/typescript-language-features/dist/extension

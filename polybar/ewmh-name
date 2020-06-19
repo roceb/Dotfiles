@@ -1,0 +1,14 @@
+icon-default =
+ws-icon-0 = term;
+ws-icon-1 = web;龜
+ws-icon-2 = code;
+ws-icon-3 = files;
+ws-icon-4 = music;
+ws-icon-5 = movie;
+ws-icon-6 = extra;
+# label-active = %icon%
+# label-occupied = %icon%
+# label-urgent = %icon%
+# label-empty = %icon%
+
+

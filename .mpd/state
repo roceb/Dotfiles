@@ -1,0 +1,45 @@
+sw_volume: 100
+audio_device_state:1:My ALSA Device
+audio_device_state:1:my_fifo
+state: pause
+current: 13
+time: 80.508000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kendrick Lamar/Kendrick Lamar - Bitch Dont Kill My Vibe.mp3
+1:Kendrick Lamar/Kendrick Lamar - Poetic Justice.mp3
+2:Kendrick Lamar/Kendrick Lamar - Swimming Pools (Drank) - Extended Version.mp3
+3:Miley Cyrus - Wrecking Ball.mp3
+4:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - POWER.mp3
+5:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - All Of The Lights (Interlude).mp3
+6:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - All Of The Lights.mp3
+7:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - Monster.mp3
+8:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - So Appalled.mp3
+9:Kanye West/My Beautiful Dark Twisted Fantasy - Kanye West/Kanye West - Blame Game.mp3
+10:Kanye West/Kanye West - Wolves.mp3
+11:Kanye West/Kanye West - Franks Track.mp3
+12:Kanye West/Kanye West - 30 Hours.mp3
+13:Kanye West/Kanye West - No More Parties In LA.mp3
+14:Kanye West/Kanye West - Fade.mp3
+15:Kanye West/Kanye West - Saint Pablo.mp3
+16:Kanye West/Kanye West - Facts (Charlie Heat Version).mp3
+17:Kanye West/Kanye West - Father Stretch My Hands Pt 1.mp3
+18:J.Cole/J Cole - Kevins Heart.mp3
+19:J.Cole/J Cole - Neighbors.mp3
+20:J.Cole/J Cole - Wet Dreamz.mp3
+21:J.Cole/J Cole - GOMD.mp3
+22:J.Cole/J Cole - No Role Modelz.mp3
+23:J.Cole/J Cole - Apparently.mp3
+24:J Balvin/Colores - J Balvin/J Balvin - Amarillo.mp3
+25:Bad Bunny/YHLQMDLG - Bad Bunny/Bad Bunny - Yo Perreo Sola.mp3
+26:Bad Bunny/YHLQMDLG - Bad Bunny/Bad Bunny - P FKN R.mp3
+27:Bad Bunny/YHLQMDLG - Bad Bunny/Bad Bunny - Safaera.mp3
+28:Bad Bunny/YHLQMDLG - Bad Bunny/Bad Bunny - Ignorantes.mp3
+29:Bad Bunny/YHLQMDLG - Bad Bunny/Bad Bunny - Vete.mp3
+playlist_end

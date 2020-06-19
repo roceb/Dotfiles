@@ -69,7 +69,7 @@ ZSH_THEME="spaceship"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-syntax-highlighting)
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -103,7 +103,10 @@ alias lu='colorls --dark --tree'
 alias h='cd ~/'
 alias c='clear'
 alias rf='source ~/.zshrc'
-alias v='vim'
+alias v='nvim'
+alias sv='sudo nvim'
+alias vim='nvim'
+alias vimrc='$EDITOR ~/.vimrc'
 alias venv='source env/bin/activate'
 alias py='python'
 alias zshrc='v ~/.zshrc'
@@ -114,21 +117,55 @@ alias prev='spotifycli --prev'
 alias pause='spotifycli --pause'
 alias ls='exa -a --group-directories-first'
 alias lu='exa -a -T --level=2'
-alias Pr='cd ~/Documents/Programming'
-alias sap='sudo apt-get'
+alias PAC='sudo pacman'
 alias jrnl='~/.local/bin/jrnl'
 alias rasp='ssh 192.168.1.254 -p 12929'
-alias pi='ssh 192.168.1.155 '
+alias pi='ssh 192.168.1.155'
 alias alaconfig='vim ~/.config/alacritty/alacritty.yml'
 alias wmrc='vim ~/.spectrwm.conf'
+alias startvpn='sh ~/.config/polybar/scripts/startVPN.sh'
+# alias scrcpy='sh /home/ross/Programming/packages/scrcpy/runScript.sh '
+alias SS='sudo systemctl'
+alias bspwmrc='nvim ~/home/ross/.config/bspwm/bspwmrc'
 
-export SPICETIFY_INSTALL="/home/ross/spicetify-cli"
-export PATH="$SPICETIFY_INSTALL:$PATH"
 
-
-PATH="/home/ross/perl5/bin${PATH:+:${PATH}}"; export PATH;
-PERL5LIB="/home/ross/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
-PERL_LOCAL_LIB_ROOT="/home/ross/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
-PERL_MB_OPT="--install_base \"/home/ross/perl5\""; export PERL_MB_OPT;
-PERL_MM_OPT="INSTALL_BASE=/home/ross/perl5"; export PERL_MM_OPT;
 alias spectrwmrc='vim ~/.spectrwm.conf'
+# Alias for folders
+
+alias Pr='cd ~/Programming'
+alias Music='cd ~/Music'
+alias Pack='cd ~/Programming/packages'
+alias notes='cd ~/Programming/notes'
+alias conf='cd ~/.config'
+
+# PATH, needs to be changed to below
+# append
+#path+=('/home/david/pear/bin')
+# or prepend
+#path=('/home/david/pear/bin' $path)
+# export to sub-processes (make it inherited by child processes)
+#export PATH
+
+#export PATH="$PATH:$HOME/.scripts"
+#export EDITOR="nvim"
+#export TERMINAL="alacritty"
+#export TRUEBROWSER="firefox"
+#if [ -d "$HOME/.local/bin" ]; then
+#    PATH="$HOME/.local/bin:$PATH"
+#fi
+#export SPICETIFY_INSTALL="/home/ross/spicetify-cli"
+## export ANDROID_PLATFORM="/home/ross/Programming/packages/platform-tools"
+#export PATH="$SPICETIFY_INSTALL:$PATH"
+## export PATH="$ANDROID_PLATFORM:$PATH"
+#export GOPATH="/usr/local/go/bin"
+#export GOPATH="/home/ross/Programming/Go"
+#export PATH="$GOPATH:$PATH"
+#export LOCALBIN="/home/ross/.local/bin"
+#export PATH="$LOCALBIN:$PATH"
+#PATH="/home/ross/perl5/bin${PATH:+:${PATH}}"; export PATH;
+#PERL5LIB="/home/ross/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+#PERL_LOCAL_LIB_ROOT="/home/ross/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+#PERL_MB_OPT="--install_base \"/home/ross/perl5\""; export PERL_MB_OPT;
+#PERL_MM_OPT="INSTALL_BASE=/home/ross/perl5"; export PERL_MM_OPT;
+
+python /home/ross/.scripts/qod.py
