@@ -1,0 +1,2 @@
+[2020-05-23 23:38:22.681] [sharedprocess] [info] main {"machineId":"d68f99d1d00352a1d58c2c085b7be2dbecc0d33f8a8b490ae948b42a7bbf026d","windowId":2}
+[2020-05-23 23:38:22.711] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ross/.config/Code/User/snippets'

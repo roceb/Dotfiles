@@ -1,0 +1,1098 @@
+2020/06/06-13:49:01.010 a1cf Reusing MANIFEST /home/ross/.config/tweetdeck-nativefier-4d2c61/Session Storage/MANIFEST-000001
+2020/06/06-13:49:01.010 a1cf Recovering log #152
+2020/06/06-13:49:01.010 a1cf Reusing old log /home/ross/.config/tweetdeck-nativefier-4d2c61/Session Storage/000152.log 
+2020/06/06-14:19:01.012 cd92 Level-0 table #156: started
+2020/06/06-14:19:01.016 cd92 Level-0 table #156: 13727 bytes OK
+2020/06/06-14:19:01.019 cd92 Delete type=0 #152
+2020/06/06-14:47:01.012 cd92 Level-0 table #158: started
+2020/06/06-14:47:01.015 cd92 Level-0 table #158: 13134 bytes OK
+2020/06/06-14:47:01.018 cd92 Delete type=0 #155
+2020/06/06-15:13:01.012 cd92 Level-0 table #160: started
+2020/06/06-15:13:01.018 cd92 Level-0 table #160: 12562 bytes OK
+2020/06/06-15:13:01.021 cd92 Delete type=0 #157
+2020/06/06-15:13:01.022 cd92 Compacting 4@0 + 1@1 files
+2020/06/06-15:13:01.026 cd92 Generated table #161@0: 5 keys, 1710 bytes
+2020/06/06-15:13:01.026 cd92 Compacted 4@0 + 1@1 files => 1710 bytes
+2020/06/06-15:13:01.029 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-15:13:01.029 cd92 Delete type=2 #153
+2020/06/06-15:13:01.029 cd92 Delete type=2 #160
+2020/06/06-15:13:01.029 cd92 Delete type=2 #156
+2020/06/06-15:13:01.029 cd92 Delete type=2 #151
+2020/06/06-15:13:01.029 cd92 Delete type=2 #158
+2020/06/06-15:41:01.012 cd92 Level-0 table #163: started
+2020/06/06-15:41:01.017 cd92 Level-0 table #163: 13319 bytes OK
+2020/06/06-15:41:01.020 cd92 Delete type=0 #159
+2020/06/06-16:06:01.012 cd92 Level-0 table #165: started
+2020/06/06-16:06:01.021 cd92 Level-0 table #165: 12400 bytes OK
+2020/06/06-16:06:01.025 cd92 Delete type=0 #162
+2020/06/06-16:27:01.012 cd92 Level-0 table #167: started
+2020/06/06-16:27:01.022 cd92 Level-0 table #167: 12275 bytes OK
+2020/06/06-16:27:01.025 cd92 Delete type=0 #164
+2020/06/06-16:51:01.012 cd92 Level-0 table #169: started
+2020/06/06-16:51:01.017 cd92 Level-0 table #169: 12872 bytes OK
+2020/06/06-16:51:01.021 cd92 Delete type=0 #166
+2020/06/06-16:51:01.021 cd92 Compacting 4@0 + 1@1 files
+2020/06/06-16:51:01.025 cd92 Generated table #170@0: 5 keys, 1409 bytes
+2020/06/06-16:51:01.025 cd92 Compacted 4@0 + 1@1 files => 1409 bytes
+2020/06/06-16:51:01.030 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-16:51:01.030 cd92 Delete type=2 #167
+2020/06/06-16:51:01.030 cd92 Delete type=2 #169
+2020/06/06-16:51:01.030 cd92 Delete type=2 #161
+2020/06/06-16:51:01.030 cd92 Delete type=2 #163
+2020/06/06-16:51:01.030 cd92 Delete type=2 #165
+2020/06/06-17:15:01.012 cd92 Level-0 table #172: started
+2020/06/06-17:15:01.022 cd92 Level-0 table #172: 13115 bytes OK
+2020/06/06-17:15:01.025 cd92 Delete type=0 #168
+2020/06/06-17:36:01.012 cd92 Level-0 table #174: started
+2020/06/06-17:36:01.018 cd92 Level-0 table #174: 12082 bytes OK
+2020/06/06-17:36:01.021 cd92 Delete type=0 #171
+2020/06/06-17:58:01.012 cd92 Level-0 table #176: started
+2020/06/06-17:58:01.017 cd92 Level-0 table #176: 12362 bytes OK
+2020/06/06-17:58:01.021 cd92 Delete type=0 #173
+2020/06/06-18:23:01.011 cd92 Level-0 table #178: started
+2020/06/06-18:23:01.021 cd92 Level-0 table #178: 12580 bytes OK
+2020/06/06-18:23:01.024 cd92 Delete type=0 #175
+2020/06/06-18:23:01.025 cd92 Compacting 4@0 + 1@1 files
+2020/06/06-18:23:01.029 cd92 Generated table #179@0: 5 keys, 1629 bytes
+2020/06/06-18:23:01.029 cd92 Compacted 4@0 + 1@1 files => 1629 bytes
+2020/06/06-18:23:01.032 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-18:23:01.032 cd92 Delete type=2 #170
+2020/06/06-18:23:01.032 cd92 Delete type=2 #172
+2020/06/06-18:23:01.032 cd92 Delete type=2 #174
+2020/06/06-18:23:01.032 cd92 Delete type=2 #176
+2020/06/06-18:23:01.032 cd92 Delete type=2 #178
+2020/06/06-18:49:01.011 cd92 Level-0 table #181: started
+2020/06/06-18:49:01.020 cd92 Level-0 table #181: 14499 bytes OK
+2020/06/06-18:49:01.023 cd92 Delete type=0 #177
+2020/06/06-19:13:01.013 cd92 Level-0 table #183: started
+2020/06/06-19:13:01.018 cd92 Level-0 table #183: 12981 bytes OK
+2020/06/06-19:13:01.021 cd92 Delete type=0 #180
+2020/06/06-19:39:01.013 cd92 Level-0 table #185: started
+2020/06/06-19:39:01.023 cd92 Level-0 table #185: 14065 bytes OK
+2020/06/06-19:39:01.030 cd92 Delete type=0 #182
+2020/06/06-20:03:01.011 cd92 Level-0 table #187: started
+2020/06/06-20:03:01.016 cd92 Level-0 table #187: 11928 bytes OK
+2020/06/06-20:03:01.019 cd92 Delete type=0 #184
+2020/06/06-20:03:01.019 cd92 Compacting 4@0 + 1@1 files
+2020/06/06-20:03:01.022 cd92 Generated table #188@0: 5 keys, 1552 bytes
+2020/06/06-20:03:01.022 cd92 Compacted 4@0 + 1@1 files => 1552 bytes
+2020/06/06-20:03:01.025 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-20:03:01.025 cd92 Delete type=2 #183
+2020/06/06-20:03:01.025 cd92 Delete type=2 #181
+2020/06/06-20:03:01.025 cd92 Delete type=2 #185
+2020/06/06-20:03:01.025 cd92 Delete type=2 #187
+2020/06/06-20:03:01.025 cd92 Delete type=2 #179
+2020/06/06-20:28:01.011 cd92 Level-0 table #190: started
+2020/06/06-20:28:01.017 cd92 Level-0 table #190: 12206 bytes OK
+2020/06/06-20:28:01.020 cd92 Delete type=0 #186
+2020/06/06-21:01:01.012 cd92 Level-0 table #192: started
+2020/06/06-21:01:01.023 cd92 Level-0 table #192: 13007 bytes OK
+2020/06/06-21:01:01.027 cd92 Delete type=0 #189
+2020/06/06-21:33:01.012 cd92 Level-0 table #194: started
+2020/06/06-21:33:01.021 cd92 Level-0 table #194: 12239 bytes OK
+2020/06/06-21:33:01.025 cd92 Delete type=0 #191
+2020/06/06-22:06:01.014 cd92 Level-0 table #196: started
+2020/06/06-22:06:01.019 cd92 Level-0 table #196: 12249 bytes OK
+2020/06/06-22:06:01.023 cd92 Delete type=0 #193
+2020/06/06-22:06:01.023 cd92 Compacting 4@0 + 1@1 files
+2020/06/06-22:06:01.027 cd92 Generated table #197@0: 5 keys, 1318 bytes
+2020/06/06-22:06:01.027 cd92 Compacted 4@0 + 1@1 files => 1318 bytes
+2020/06/06-22:06:01.035 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/06-22:06:01.035 cd92 Delete type=2 #190
+2020/06/06-22:06:01.035 cd92 Delete type=2 #196
+2020/06/06-22:06:01.035 cd92 Delete type=2 #194
+2020/06/06-22:06:01.035 cd92 Delete type=2 #188
+2020/06/06-22:06:01.035 cd92 Delete type=2 #192
+2020/06/06-22:39:01.010 cd92 Level-0 table #199: started
+2020/06/06-22:39:01.015 cd92 Level-0 table #199: 12208 bytes OK
+2020/06/06-22:39:01.020 cd92 Delete type=0 #195
+2020/06/06-23:26:01.015 cd92 Level-0 table #201: started
+2020/06/06-23:26:01.024 cd92 Level-0 table #201: 13030 bytes OK
+2020/06/06-23:26:01.027 cd92 Delete type=0 #198
+2020/06/07-00:01:01.012 cd92 Level-0 table #203: started
+2020/06/07-00:01:01.022 cd92 Level-0 table #203: 13155 bytes OK
+2020/06/07-00:01:01.025 cd92 Delete type=0 #200
+2020/06/07-00:32:01.011 cd92 Level-0 table #205: started
+2020/06/07-00:32:01.021 cd92 Level-0 table #205: 11729 bytes OK
+2020/06/07-00:32:01.024 cd92 Delete type=0 #202
+2020/06/07-00:32:01.024 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-00:32:01.031 cd92 Generated table #206@0: 5 keys, 1697 bytes
+2020/06/07-00:32:01.031 cd92 Compacted 4@0 + 1@1 files => 1697 bytes
+2020/06/07-00:32:01.034 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-00:32:01.034 cd92 Delete type=2 #197
+2020/06/07-00:32:01.034 cd92 Delete type=2 #203
+2020/06/07-00:32:01.034 cd92 Delete type=2 #201
+2020/06/07-00:32:01.034 cd92 Delete type=2 #205
+2020/06/07-00:32:01.034 cd92 Delete type=2 #199
+2020/06/07-01:06:01.015 cd92 Level-0 table #208: started
+2020/06/07-01:06:01.025 cd92 Level-0 table #208: 12231 bytes OK
+2020/06/07-01:06:01.028 cd92 Delete type=0 #204
+2020/06/07-01:28:01.008 cd92 Level-0 table #210: started
+2020/06/07-01:28:01.014 cd92 Level-0 table #210: 12340 bytes OK
+2020/06/07-01:28:01.022 cd92 Delete type=0 #207
+2020/06/07-01:49:01.012 cd92 Level-0 table #212: started
+2020/06/07-01:49:01.015 cd92 Level-0 table #212: 11186 bytes OK
+2020/06/07-01:49:01.018 cd92 Delete type=0 #209
+2020/06/07-02:13:01.010 cd92 Level-0 table #214: started
+2020/06/07-02:13:01.015 cd92 Level-0 table #214: 12912 bytes OK
+2020/06/07-02:13:01.019 cd92 Delete type=0 #211
+2020/06/07-02:13:01.019 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-02:13:01.027 cd92 Generated table #215@0: 5 keys, 1557 bytes
+2020/06/07-02:13:01.027 cd92 Compacted 4@0 + 1@1 files => 1557 bytes
+2020/06/07-02:13:01.030 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-02:13:01.031 cd92 Delete type=2 #210
+2020/06/07-02:13:01.031 cd92 Delete type=2 #208
+2020/06/07-02:13:01.031 cd92 Delete type=2 #212
+2020/06/07-02:13:01.031 cd92 Delete type=2 #206
+2020/06/07-02:13:01.031 cd92 Delete type=2 #214
+2020/06/07-02:37:01.011 cd92 Level-0 table #217: started
+2020/06/07-02:37:01.016 cd92 Level-0 table #217: 12877 bytes OK
+2020/06/07-02:37:01.019 cd92 Delete type=0 #213
+2020/06/07-03:00:01.012 cd92 Level-0 table #219: started
+2020/06/07-03:00:01.021 cd92 Level-0 table #219: 12027 bytes OK
+2020/06/07-03:00:01.025 cd92 Delete type=0 #216
+2020/06/07-03:23:01.011 cd92 Level-0 table #221: started
+2020/06/07-03:23:01.016 cd92 Level-0 table #221: 11944 bytes OK
+2020/06/07-03:23:01.019 cd92 Delete type=0 #218
+2020/06/07-03:48:01.012 cd92 Level-0 table #223: started
+2020/06/07-03:48:01.016 cd92 Level-0 table #223: 12994 bytes OK
+2020/06/07-03:48:01.019 cd92 Delete type=0 #220
+2020/06/07-03:48:01.019 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-03:48:01.023 cd92 Generated table #224@0: 5 keys, 1362 bytes
+2020/06/07-03:48:01.023 cd92 Compacted 4@0 + 1@1 files => 1362 bytes
+2020/06/07-03:48:01.026 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-03:48:01.026 cd92 Delete type=2 #217
+2020/06/07-03:48:01.026 cd92 Delete type=2 #223
+2020/06/07-03:48:01.026 cd92 Delete type=2 #221
+2020/06/07-03:48:01.026 cd92 Delete type=2 #219
+2020/06/07-03:48:01.026 cd92 Delete type=2 #215
+2020/06/07-04:16:01.010 cd92 Level-0 table #226: started
+2020/06/07-04:16:01.016 cd92 Level-0 table #226: 13762 bytes OK
+2020/06/07-04:16:01.019 cd92 Delete type=0 #222
+2020/06/07-04:41:01.011 cd92 Level-0 table #228: started
+2020/06/07-04:41:01.018 cd92 Level-0 table #228: 13838 bytes OK
+2020/06/07-04:41:01.022 cd92 Delete type=0 #225
+2020/06/07-05:07:01.013 cd92 Level-0 table #230: started
+2020/06/07-05:07:01.019 cd92 Level-0 table #230: 14078 bytes OK
+2020/06/07-05:07:01.022 cd92 Delete type=0 #227
+2020/06/07-05:32:01.009 cd92 Level-0 table #232: started
+2020/06/07-05:32:01.016 cd92 Level-0 table #232: 13154 bytes OK
+2020/06/07-05:32:01.020 cd92 Delete type=0 #229
+2020/06/07-05:32:01.020 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-05:32:01.028 cd92 Generated table #233@0: 5 keys, 1239 bytes
+2020/06/07-05:32:01.028 cd92 Compacted 4@0 + 1@1 files => 1239 bytes
+2020/06/07-05:32:01.031 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-05:32:01.031 cd92 Delete type=2 #228
+2020/06/07-05:32:01.031 cd92 Delete type=2 #232
+2020/06/07-05:32:01.031 cd92 Delete type=2 #230
+2020/06/07-05:32:01.031 cd92 Delete type=2 #226
+2020/06/07-05:32:01.031 cd92 Delete type=2 #224
+2020/06/07-06:05:01.011 cd92 Level-0 table #235: started
+2020/06/07-06:05:01.016 cd92 Level-0 table #235: 12132 bytes OK
+2020/06/07-06:05:01.020 cd92 Delete type=0 #231
+2020/06/07-06:38:01.014 cd92 Level-0 table #237: started
+2020/06/07-06:38:01.017 cd92 Level-0 table #237: 12490 bytes OK
+2020/06/07-06:38:01.020 cd92 Delete type=0 #234
+2020/06/07-07:11:01.012 cd92 Level-0 table #239: started
+2020/06/07-07:11:01.021 cd92 Level-0 table #239: 12670 bytes OK
+2020/06/07-07:11:01.024 cd92 Delete type=0 #236
+2020/06/07-07:44:01.011 cd92 Level-0 table #241: started
+2020/06/07-07:44:01.016 cd92 Level-0 table #241: 11007 bytes OK
+2020/06/07-07:44:01.020 cd92 Delete type=0 #238
+2020/06/07-07:44:01.020 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-07:44:01.024 cd92 Generated table #242@0: 5 keys, 1310 bytes
+2020/06/07-07:44:01.024 cd92 Compacted 4@0 + 1@1 files => 1310 bytes
+2020/06/07-07:44:01.027 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-07:44:01.028 cd92 Delete type=2 #233
+2020/06/07-07:44:01.028 cd92 Delete type=2 #237
+2020/06/07-07:44:01.028 cd92 Delete type=2 #241
+2020/06/07-07:44:01.028 cd92 Delete type=2 #239
+2020/06/07-07:44:01.028 cd92 Delete type=2 #235
+2020/06/07-08:24:01.013 cd92 Level-0 table #244: started
+2020/06/07-08:24:01.017 cd92 Level-0 table #244: 12932 bytes OK
+2020/06/07-08:24:01.025 cd92 Delete type=0 #240
+2020/06/07-08:58:01.009 cd92 Level-0 table #246: started
+2020/06/07-08:58:01.019 cd92 Level-0 table #246: 12394 bytes OK
+2020/06/07-08:58:01.022 cd92 Delete type=0 #243
+2020/06/07-09:32:01.013 cd92 Level-0 table #248: started
+2020/06/07-09:32:01.018 cd92 Level-0 table #248: 11842 bytes OK
+2020/06/07-09:32:01.023 cd92 Delete type=0 #245
+2020/06/07-10:10:01.011 cd92 Level-0 table #250: started
+2020/06/07-10:10:01.020 cd92 Level-0 table #250: 12659 bytes OK
+2020/06/07-10:10:01.024 cd92 Delete type=0 #247
+2020/06/07-10:10:01.024 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-10:10:01.027 cd92 Generated table #251@0: 5 keys, 1417 bytes
+2020/06/07-10:10:01.027 cd92 Compacted 4@0 + 1@1 files => 1417 bytes
+2020/06/07-10:10:01.031 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-10:10:01.031 cd92 Delete type=2 #248
+2020/06/07-10:10:01.031 cd92 Delete type=2 #244
+2020/06/07-10:10:01.031 cd92 Delete type=2 #242
+2020/06/07-10:10:01.031 cd92 Delete type=2 #250
+2020/06/07-10:10:01.031 cd92 Delete type=2 #246
+2020/06/07-10:34:01.009 cd92 Level-0 table #253: started
+2020/06/07-10:34:01.013 cd92 Level-0 table #253: 12417 bytes OK
+2020/06/07-10:34:01.016 cd92 Delete type=0 #249
+2020/06/07-10:56:01.010 cd92 Level-0 table #255: started
+2020/06/07-10:56:01.014 cd92 Level-0 table #255: 12045 bytes OK
+2020/06/07-10:56:01.017 cd92 Delete type=0 #252
+2020/06/07-11:20:01.008 cd92 Level-0 table #257: started
+2020/06/07-11:20:01.013 cd92 Level-0 table #257: 13165 bytes OK
+2020/06/07-11:20:01.016 cd92 Delete type=0 #254
+2020/06/07-11:44:01.006 cd92 Level-0 table #259: started
+2020/06/07-11:44:01.015 cd92 Level-0 table #259: 12822 bytes OK
+2020/06/07-11:44:01.018 cd92 Delete type=0 #256
+2020/06/07-11:44:01.018 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-11:44:01.021 cd92 Generated table #260@0: 5 keys, 1293 bytes
+2020/06/07-11:44:01.021 cd92 Compacted 4@0 + 1@1 files => 1293 bytes
+2020/06/07-11:44:01.024 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-11:44:01.024 cd92 Delete type=2 #259
+2020/06/07-11:44:01.024 cd92 Delete type=2 #251
+2020/06/07-11:44:01.024 cd92 Delete type=2 #253
+2020/06/07-11:44:01.024 cd92 Delete type=2 #257
+2020/06/07-11:44:01.024 cd92 Delete type=2 #255
+2020/06/07-12:08:01.015 cd92 Level-0 table #262: started
+2020/06/07-12:08:01.020 cd92 Level-0 table #262: 13446 bytes OK
+2020/06/07-12:08:01.023 cd92 Delete type=0 #258
+2020/06/07-12:31:01.013 cd92 Level-0 table #264: started
+2020/06/07-12:31:01.018 cd92 Level-0 table #264: 12787 bytes OK
+2020/06/07-12:31:01.021 cd92 Delete type=0 #261
+2020/06/07-12:56:01.008 cd92 Level-0 table #266: started
+2020/06/07-12:56:01.012 cd92 Level-0 table #266: 13500 bytes OK
+2020/06/07-12:56:01.015 cd92 Delete type=0 #263
+2020/06/07-13:23:01.017 cd92 Level-0 table #268: started
+2020/06/07-13:23:01.023 cd92 Level-0 table #268: 13275 bytes OK
+2020/06/07-13:23:01.026 cd92 Delete type=0 #265
+2020/06/07-13:23:01.026 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-13:23:01.030 cd92 Generated table #269@0: 5 keys, 1556 bytes
+2020/06/07-13:23:01.030 cd92 Compacted 4@0 + 1@1 files => 1556 bytes
+2020/06/07-13:23:01.033 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-13:23:01.033 cd92 Delete type=2 #268
+2020/06/07-13:23:01.033 cd92 Delete type=2 #260
+2020/06/07-13:23:01.033 cd92 Delete type=2 #266
+2020/06/07-13:23:01.033 cd92 Delete type=2 #262
+2020/06/07-13:23:01.033 cd92 Delete type=2 #264
+2020/06/07-13:50:01.010 cd92 Level-0 table #271: started
+2020/06/07-13:50:01.014 cd92 Level-0 table #271: 14160 bytes OK
+2020/06/07-13:50:01.022 cd92 Delete type=0 #267
+2020/06/07-14:13:01.010 cd92 Level-0 table #273: started
+2020/06/07-14:13:01.014 cd92 Level-0 table #273: 12526 bytes OK
+2020/06/07-14:13:01.017 cd92 Delete type=0 #270
+2020/06/07-14:37:01.008 cd92 Level-0 table #275: started
+2020/06/07-14:37:01.014 cd92 Level-0 table #275: 13337 bytes OK
+2020/06/07-14:37:01.017 cd92 Delete type=0 #272
+2020/06/07-15:05:01.015 cd92 Level-0 table #277: started
+2020/06/07-15:05:01.022 cd92 Level-0 table #277: 12628 bytes OK
+2020/06/07-15:05:01.025 cd92 Delete type=0 #274
+2020/06/07-15:05:01.025 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-15:05:01.028 cd92 Generated table #278@0: 5 keys, 1314 bytes
+2020/06/07-15:05:01.028 cd92 Compacted 4@0 + 1@1 files => 1314 bytes
+2020/06/07-15:05:01.031 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-15:05:01.031 cd92 Delete type=2 #275
+2020/06/07-15:05:01.031 cd92 Delete type=2 #271
+2020/06/07-15:05:01.031 cd92 Delete type=2 #273
+2020/06/07-15:05:01.031 cd92 Delete type=2 #277
+2020/06/07-15:05:01.031 cd92 Delete type=2 #269
+2020/06/07-15:37:01.007 cd92 Level-0 table #280: started
+2020/06/07-15:37:01.012 cd92 Level-0 table #280: 10713 bytes OK
+2020/06/07-15:37:01.016 cd92 Delete type=0 #276
+2020/06/07-16:09:01.015 cd92 Level-0 table #282: started
+2020/06/07-16:09:01.024 cd92 Level-0 table #282: 10728 bytes OK
+2020/06/07-16:09:01.028 cd92 Delete type=0 #279
+2020/06/07-16:41:01.014 cd92 Level-0 table #284: started
+2020/06/07-16:41:01.020 cd92 Level-0 table #284: 10702 bytes OK
+2020/06/07-16:41:01.023 cd92 Delete type=0 #281
+2020/06/07-17:13:01.007 cd92 Level-0 table #286: started
+2020/06/07-17:13:01.016 cd92 Level-0 table #286: 10700 bytes OK
+2020/06/07-17:13:01.020 cd92 Delete type=0 #283
+2020/06/07-17:13:01.020 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-17:13:01.024 cd92 Generated table #287@0: 5 keys, 1318 bytes
+2020/06/07-17:13:01.024 cd92 Compacted 4@0 + 1@1 files => 1318 bytes
+2020/06/07-17:13:01.027 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-17:13:01.027 cd92 Delete type=2 #286
+2020/06/07-17:13:01.027 cd92 Delete type=2 #282
+2020/06/07-17:13:01.027 cd92 Delete type=2 #284
+2020/06/07-17:13:01.027 cd92 Delete type=2 #280
+2020/06/07-17:13:01.027 cd92 Delete type=2 #278
+2020/06/07-18:23:01.012 cd92 Level-0 table #289: started
+2020/06/07-18:23:01.017 cd92 Level-0 table #289: 10505 bytes OK
+2020/06/07-18:23:01.020 cd92 Delete type=0 #285
+2020/06/07-19:29:01.009 cd92 Level-0 table #291: started
+2020/06/07-19:29:01.013 cd92 Level-0 table #291: 9325 bytes OK
+2020/06/07-19:29:01.016 cd92 Delete type=0 #288
+2020/06/07-19:50:01.012 cd92 Level-0 table #293: started
+2020/06/07-19:50:01.017 cd92 Level-0 table #293: 10382 bytes OK
+2020/06/07-19:50:01.021 cd92 Delete type=0 #290
+2020/06/07-20:09:01.011 cd92 Level-0 table #295: started
+2020/06/07-20:09:01.019 cd92 Level-0 table #295: 10383 bytes OK
+2020/06/07-20:09:01.023 cd92 Delete type=0 #292
+2020/06/07-20:09:01.024 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-20:09:01.031 cd92 Generated table #296@0: 5 keys, 1409 bytes
+2020/06/07-20:09:01.031 cd92 Compacted 4@0 + 1@1 files => 1409 bytes
+2020/06/07-20:09:01.033 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-20:09:01.034 cd92 Delete type=2 #289
+2020/06/07-20:09:01.034 cd92 Delete type=2 #293
+2020/06/07-20:09:01.034 cd92 Delete type=2 #291
+2020/06/07-20:09:01.034 cd92 Delete type=2 #287
+2020/06/07-20:09:01.034 cd92 Delete type=2 #295
+2020/06/07-20:28:01.009 cd92 Level-0 table #298: started
+2020/06/07-20:28:01.014 cd92 Level-0 table #298: 10398 bytes OK
+2020/06/07-20:28:01.017 cd92 Delete type=0 #294
+2020/06/07-20:47:01.017 cd92 Level-0 table #300: started
+2020/06/07-20:47:01.026 cd92 Level-0 table #300: 10360 bytes OK
+2020/06/07-20:47:01.030 cd92 Delete type=0 #297
+2020/06/07-21:06:01.007 cd92 Level-0 table #302: started
+2020/06/07-21:06:01.017 cd92 Level-0 table #302: 10407 bytes OK
+2020/06/07-21:06:01.020 cd92 Delete type=0 #299
+2020/06/07-21:25:01.014 cd92 Level-0 table #304: started
+2020/06/07-21:25:01.024 cd92 Level-0 table #304: 10609 bytes OK
+2020/06/07-21:25:01.027 cd92 Delete type=0 #301
+2020/06/07-21:25:01.027 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-21:25:01.032 cd92 Generated table #305@0: 5 keys, 1412 bytes
+2020/06/07-21:25:01.032 cd92 Compacted 4@0 + 1@1 files => 1412 bytes
+2020/06/07-21:25:01.035 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-21:25:01.035 cd92 Delete type=2 #296
+2020/06/07-21:25:01.035 cd92 Delete type=2 #304
+2020/06/07-21:25:01.035 cd92 Delete type=2 #302
+2020/06/07-21:25:01.035 cd92 Delete type=2 #298
+2020/06/07-21:25:01.035 cd92 Delete type=2 #300
+2020/06/07-21:44:01.012 cd92 Level-0 table #307: started
+2020/06/07-21:44:01.018 cd92 Level-0 table #307: 10405 bytes OK
+2020/06/07-21:44:01.021 cd92 Delete type=0 #303
+2020/06/07-22:06:01.006 cd92 Level-0 table #309: started
+2020/06/07-22:06:01.011 cd92 Level-0 table #309: 10941 bytes OK
+2020/06/07-22:06:01.014 cd92 Delete type=0 #306
+2020/06/07-22:29:01.014 cd92 Level-0 table #311: started
+2020/06/07-22:29:01.019 cd92 Level-0 table #311: 11465 bytes OK
+2020/06/07-22:29:01.023 cd92 Delete type=0 #308
+2020/06/07-22:52:01.006 cd92 Level-0 table #313: started
+2020/06/07-22:52:01.011 cd92 Level-0 table #313: 11460 bytes OK
+2020/06/07-22:52:01.014 cd92 Delete type=0 #310
+2020/06/07-22:52:01.015 cd92 Compacting 4@0 + 1@1 files
+2020/06/07-22:52:01.018 cd92 Generated table #314@0: 5 keys, 1370 bytes
+2020/06/07-22:52:01.018 cd92 Compacted 4@0 + 1@1 files => 1370 bytes
+2020/06/07-22:52:01.022 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/07-22:52:01.022 cd92 Delete type=2 #311
+2020/06/07-22:52:01.022 cd92 Delete type=2 #307
+2020/06/07-22:52:01.022 cd92 Delete type=2 #305
+2020/06/07-22:52:01.022 cd92 Delete type=2 #309
+2020/06/07-22:52:01.022 cd92 Delete type=2 #313
+2020/06/07-23:16:01.011 cd92 Level-0 table #316: started
+2020/06/07-23:16:01.021 cd92 Level-0 table #316: 11807 bytes OK
+2020/06/07-23:16:01.024 cd92 Delete type=0 #312
+2020/06/07-23:39:01.012 cd92 Level-0 table #318: started
+2020/06/07-23:39:01.017 cd92 Level-0 table #318: 11446 bytes OK
+2020/06/07-23:39:01.021 cd92 Delete type=0 #315
+2020/06/08-00:02:01.011 cd92 Level-0 table #320: started
+2020/06/08-00:02:01.026 cd92 Level-0 table #320: 11447 bytes OK
+2020/06/08-00:02:01.029 cd92 Delete type=0 #317
+2020/06/08-00:30:01.018 cd92 Level-0 table #322: started
+2020/06/08-00:30:01.022 cd92 Level-0 table #322: 10822 bytes OK
+2020/06/08-00:30:01.025 cd92 Delete type=0 #319
+2020/06/08-00:30:01.025 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-00:30:01.029 cd92 Generated table #323@0: 5 keys, 1315 bytes
+2020/06/08-00:30:01.029 cd92 Compacted 4@0 + 1@1 files => 1315 bytes
+2020/06/08-00:30:01.032 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-00:30:01.032 cd92 Delete type=2 #322
+2020/06/08-00:30:01.032 cd92 Delete type=2 #316
+2020/06/08-00:30:01.032 cd92 Delete type=2 #314
+2020/06/08-00:30:01.032 cd92 Delete type=2 #318
+2020/06/08-00:30:01.032 cd92 Delete type=2 #320
+2020/06/08-01:02:01.011 cd92 Level-0 table #325: started
+2020/06/08-01:02:01.016 cd92 Level-0 table #325: 10707 bytes OK
+2020/06/08-01:02:01.019 cd92 Delete type=0 #321
+2020/06/08-01:34:01.010 cd92 Level-0 table #327: started
+2020/06/08-01:34:01.014 cd92 Level-0 table #327: 10689 bytes OK
+2020/06/08-01:34:01.022 cd92 Delete type=0 #324
+2020/06/08-02:06:01.010 cd92 Level-0 table #329: started
+2020/06/08-02:06:01.020 cd92 Level-0 table #329: 10723 bytes OK
+2020/06/08-02:06:01.023 cd92 Delete type=0 #326
+2020/06/08-02:52:01.009 cd92 Level-0 table #331: started
+2020/06/08-02:52:01.030 cd92 Level-0 table #331: 10819 bytes OK
+2020/06/08-02:52:01.045 cd92 Delete type=0 #328
+2020/06/08-02:52:01.045 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-02:52:01.049 cd92 Generated table #332@0: 5 keys, 1420 bytes
+2020/06/08-02:52:01.049 cd92 Compacted 4@0 + 1@1 files => 1420 bytes
+2020/06/08-02:52:01.052 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-02:52:01.053 cd92 Delete type=2 #323
+2020/06/08-02:52:01.053 cd92 Delete type=2 #331
+2020/06/08-02:52:01.053 cd92 Delete type=2 #329
+2020/06/08-02:52:01.053 cd92 Delete type=2 #325
+2020/06/08-02:52:01.053 cd92 Delete type=2 #327
+2020/06/08-03:53:01.006 cd92 Level-0 table #334: started
+2020/06/08-03:53:01.009 cd92 Level-0 table #334: 10300 bytes OK
+2020/06/08-03:53:01.011 cd92 Delete type=0 #330
+2020/06/08-04:46:01.018 cd92 Level-0 table #336: started
+2020/06/08-04:46:01.024 cd92 Level-0 table #336: 10538 bytes OK
+2020/06/08-04:46:01.027 cd92 Delete type=0 #333
+2020/06/08-05:06:01.015 cd92 Level-0 table #338: started
+2020/06/08-05:06:01.020 cd92 Level-0 table #338: 10716 bytes OK
+2020/06/08-05:06:01.023 cd92 Delete type=0 #335
+2020/06/08-05:26:01.013 cd92 Level-0 table #340: started
+2020/06/08-05:26:01.022 cd92 Level-0 table #340: 10734 bytes OK
+2020/06/08-05:26:01.026 cd92 Delete type=0 #337
+2020/06/08-05:26:01.026 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-05:26:01.030 cd92 Generated table #341@0: 5 keys, 1415 bytes
+2020/06/08-05:26:01.030 cd92 Compacted 4@0 + 1@1 files => 1415 bytes
+2020/06/08-05:26:01.034 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-05:26:01.034 cd92 Delete type=2 #334
+2020/06/08-05:26:01.034 cd92 Delete type=2 #332
+2020/06/08-05:26:01.034 cd92 Delete type=2 #340
+2020/06/08-05:26:01.034 cd92 Delete type=2 #336
+2020/06/08-05:26:01.034 cd92 Delete type=2 #338
+2020/06/08-05:45:01.010 cd92 Level-0 table #343: started
+2020/06/08-05:45:01.015 cd92 Level-0 table #343: 10357 bytes OK
+2020/06/08-05:45:01.018 cd92 Delete type=0 #339
+2020/06/08-06:04:01.009 cd92 Level-0 table #345: started
+2020/06/08-06:04:01.014 cd92 Level-0 table #345: 10365 bytes OK
+2020/06/08-06:04:01.018 cd92 Delete type=0 #342
+2020/06/08-06:24:01.006 cd92 Level-0 table #347: started
+2020/06/08-06:24:01.011 cd92 Level-0 table #347: 10552 bytes OK
+2020/06/08-06:24:01.015 cd92 Delete type=0 #344
+2020/06/08-06:43:01.022 cd92 Level-0 table #349: started
+2020/06/08-06:43:01.027 cd92 Level-0 table #349: 10331 bytes OK
+2020/06/08-06:43:01.035 cd92 Delete type=0 #346
+2020/06/08-06:43:01.035 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-06:43:01.038 cd92 Generated table #350@0: 5 keys, 1419 bytes
+2020/06/08-06:43:01.038 cd92 Compacted 4@0 + 1@1 files => 1419 bytes
+2020/06/08-06:43:01.040 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-06:43:01.040 cd92 Delete type=2 #343
+2020/06/08-06:43:01.040 cd92 Delete type=2 #347
+2020/06/08-06:43:01.040 cd92 Delete type=2 #349
+2020/06/08-06:43:01.040 cd92 Delete type=2 #345
+2020/06/08-06:43:01.040 cd92 Delete type=2 #341
+2020/06/08-07:06:01.013 cd92 Level-0 table #352: started
+2020/06/08-07:06:01.019 cd92 Level-0 table #352: 10930 bytes OK
+2020/06/08-07:06:01.022 cd92 Delete type=0 #348
+2020/06/08-07:30:01.019 cd92 Level-0 table #354: started
+2020/06/08-07:30:01.027 cd92 Level-0 table #354: 11680 bytes OK
+2020/06/08-07:30:01.030 cd92 Delete type=0 #351
+2020/06/08-07:55:01.007 cd92 Level-0 table #356: started
+2020/06/08-07:55:01.012 cd92 Level-0 table #356: 11579 bytes OK
+2020/06/08-07:55:01.015 cd92 Delete type=0 #353
+2020/06/08-08:18:01.015 cd92 Level-0 table #358: started
+2020/06/08-08:18:01.020 cd92 Level-0 table #358: 10697 bytes OK
+2020/06/08-08:18:01.023 cd92 Delete type=0 #355
+2020/06/08-08:18:01.023 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-08:18:01.027 cd92 Generated table #359@0: 5 keys, 1366 bytes
+2020/06/08-08:18:01.027 cd92 Compacted 4@0 + 1@1 files => 1366 bytes
+2020/06/08-08:18:01.035 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-08:18:01.036 cd92 Delete type=2 #352
+2020/06/08-08:18:01.036 cd92 Delete type=2 #358
+2020/06/08-08:18:01.036 cd92 Delete type=2 #356
+2020/06/08-08:18:01.036 cd92 Delete type=2 #350
+2020/06/08-08:18:01.036 cd92 Delete type=2 #354
+2020/06/08-08:43:01.019 cd92 Level-0 table #361: started
+2020/06/08-08:43:01.024 cd92 Level-0 table #361: 11594 bytes OK
+2020/06/08-08:43:01.028 cd92 Delete type=0 #357
+2020/06/08-09:11:01.002 cd92 Level-0 table #363: started
+2020/06/08-09:11:01.007 cd92 Level-0 table #363: 11397 bytes OK
+2020/06/08-09:11:01.010 cd92 Delete type=0 #360
+2020/06/08-09:41:00.998 cd92 Level-0 table #365: started
+2020/06/08-09:41:01.003 cd92 Level-0 table #365: 11019 bytes OK
+2020/06/08-09:41:01.007 cd92 Delete type=0 #362
+2020/06/08-10:11:01.009 cd92 Level-0 table #367: started
+2020/06/08-10:11:01.013 cd92 Level-0 table #367: 11036 bytes OK
+2020/06/08-10:11:01.016 cd92 Delete type=0 #364
+2020/06/08-10:11:01.016 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-10:11:01.020 cd92 Generated table #368@0: 5 keys, 1318 bytes
+2020/06/08-10:11:01.020 cd92 Compacted 4@0 + 1@1 files => 1318 bytes
+2020/06/08-10:11:01.023 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-10:11:01.023 cd92 Delete type=2 #365
+2020/06/08-10:11:01.023 cd92 Delete type=2 #363
+2020/06/08-10:11:01.023 cd92 Delete type=2 #359
+2020/06/08-10:11:01.023 cd92 Delete type=2 #361
+2020/06/08-10:11:01.023 cd92 Delete type=2 #367
+2020/06/08-10:42:01.019 cd92 Level-0 table #370: started
+2020/06/08-10:42:01.024 cd92 Level-0 table #370: 10883 bytes OK
+2020/06/08-10:42:01.028 cd92 Delete type=0 #366
+2020/06/08-11:45:01.022 cd92 Level-0 table #372: started
+2020/06/08-11:45:01.032 cd92 Level-0 table #372: 10637 bytes OK
+2020/06/08-11:45:01.035 cd92 Delete type=0 #369
+2020/06/08-12:53:01.014 cd92 Level-0 table #374: started
+2020/06/08-12:53:01.018 cd92 Level-0 table #374: 10721 bytes OK
+2020/06/08-12:53:01.021 cd92 Delete type=0 #371
+2020/06/08-13:15:01.024 cd92 Level-0 table #376: started
+2020/06/08-13:15:01.028 cd92 Level-0 table #376: 10107 bytes OK
+2020/06/08-13:15:01.031 cd92 Delete type=0 #373
+2020/06/08-13:15:01.031 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-13:15:01.035 cd92 Generated table #377@0: 5 keys, 1420 bytes
+2020/06/08-13:15:01.035 cd92 Compacted 4@0 + 1@1 files => 1420 bytes
+2020/06/08-13:15:01.038 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-13:15:01.038 cd92 Delete type=2 #368
+2020/06/08-13:15:01.038 cd92 Delete type=2 #370
+2020/06/08-13:15:01.038 cd92 Delete type=2 #372
+2020/06/08-13:15:01.038 cd92 Delete type=2 #374
+2020/06/08-13:15:01.038 cd92 Delete type=2 #376
+2020/06/08-13:34:01.006 cd92 Level-0 table #379: started
+2020/06/08-13:34:01.008 cd92 Level-0 table #379: 10703 bytes OK
+2020/06/08-13:34:01.011 cd92 Delete type=0 #375
+2020/06/08-13:53:01.005 cd92 Level-0 table #381: started
+2020/06/08-13:53:01.010 cd92 Level-0 table #381: 10412 bytes OK
+2020/06/08-13:53:01.013 cd92 Delete type=0 #378
+2020/06/08-14:12:01.020 cd92 Level-0 table #383: started
+2020/06/08-14:12:01.025 cd92 Level-0 table #383: 10612 bytes OK
+2020/06/08-14:12:01.028 cd92 Delete type=0 #380
+2020/06/08-14:31:01.019 cd92 Level-0 table #385: started
+2020/06/08-14:31:01.024 cd92 Level-0 table #385: 10558 bytes OK
+2020/06/08-14:31:01.028 cd92 Delete type=0 #382
+2020/06/08-14:31:01.028 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-14:31:01.032 cd92 Generated table #386@0: 5 keys, 1412 bytes
+2020/06/08-14:31:01.032 cd92 Compacted 4@0 + 1@1 files => 1412 bytes
+2020/06/08-14:31:01.035 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-14:31:01.035 cd92 Delete type=2 #385
+2020/06/08-14:31:01.035 cd92 Delete type=2 #381
+2020/06/08-14:31:01.035 cd92 Delete type=2 #379
+2020/06/08-14:31:01.035 cd92 Delete type=2 #377
+2020/06/08-14:31:01.035 cd92 Delete type=2 #383
+2020/06/08-14:50:01.017 cd92 Level-0 table #388: started
+2020/06/08-14:50:01.027 cd92 Level-0 table #388: 10649 bytes OK
+2020/06/08-14:50:01.031 cd92 Delete type=0 #384
+2020/06/08-15:11:01.013 cd92 Level-0 table #390: started
+2020/06/08-15:11:01.018 cd92 Level-0 table #390: 11022 bytes OK
+2020/06/08-15:11:01.021 cd92 Delete type=0 #387
+2020/06/08-15:34:01.003 cd92 Level-0 table #392: started
+2020/06/08-15:34:01.008 cd92 Level-0 table #392: 11512 bytes OK
+2020/06/08-15:34:01.010 cd92 Delete type=0 #389
+2020/06/08-15:57:01.012 cd92 Level-0 table #394: started
+2020/06/08-15:57:01.017 cd92 Level-0 table #394: 11452 bytes OK
+2020/06/08-15:57:01.021 cd92 Delete type=0 #391
+2020/06/08-15:57:01.021 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-15:57:01.030 cd92 Generated table #395@0: 5 keys, 1364 bytes
+2020/06/08-15:57:01.030 cd92 Compacted 4@0 + 1@1 files => 1364 bytes
+2020/06/08-15:57:01.033 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-15:57:01.033 cd92 Delete type=2 #388
+2020/06/08-15:57:01.033 cd92 Delete type=2 #394
+2020/06/08-15:57:01.033 cd92 Delete type=2 #386
+2020/06/08-15:57:01.033 cd92 Delete type=2 #390
+2020/06/08-15:57:01.033 cd92 Delete type=2 #392
+2020/06/08-16:20:01.003 cd92 Level-0 table #397: started
+2020/06/08-16:20:01.008 cd92 Level-0 table #397: 11487 bytes OK
+2020/06/08-16:20:01.011 cd92 Delete type=0 #393
+2020/06/08-16:41:58.235 cd92 Level-0 table #399: started
+2020/06/08-16:41:58.238 cd92 Level-0 table #399: 12343 bytes OK
+2020/06/08-16:41:58.241 cd92 Delete type=0 #396
+2020/06/08-17:10:58.236 cd92 Level-0 table #401: started
+2020/06/08-17:10:58.245 cd92 Level-0 table #401: 12622 bytes OK
+2020/06/08-17:10:58.248 cd92 Delete type=0 #398
+2020/06/08-17:41:58.235 cd92 Level-0 table #403: started
+2020/06/08-17:41:58.240 cd92 Level-0 table #403: 11949 bytes OK
+2020/06/08-17:41:58.243 cd92 Delete type=0 #400
+2020/06/08-17:41:58.244 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-17:41:58.251 cd92 Generated table #404@0: 7 keys, 2589 bytes
+2020/06/08-17:41:58.252 cd92 Compacted 4@0 + 1@1 files => 2589 bytes
+2020/06/08-17:41:58.254 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-17:41:58.254 cd92 Delete type=2 #401
+2020/06/08-17:41:58.254 cd92 Delete type=2 #403
+2020/06/08-17:41:58.255 cd92 Delete type=2 #397
+2020/06/08-17:41:58.255 cd92 Delete type=2 #399
+2020/06/08-17:41:58.255 cd92 Delete type=2 #395
+2020/06/08-18:12:58.236 cd92 Level-0 table #406: started
+2020/06/08-18:12:58.241 cd92 Level-0 table #406: 12259 bytes OK
+2020/06/08-18:12:58.244 cd92 Delete type=0 #402
+2020/06/08-18:44:58.235 cd92 Level-0 table #408: started
+2020/06/08-18:44:58.240 cd92 Level-0 table #408: 10723 bytes OK
+2020/06/08-18:44:58.245 cd92 Delete type=0 #405
+2020/06/08-19:29:58.236 cd92 Level-0 table #410: started
+2020/06/08-19:29:58.245 cd92 Level-0 table #410: 10743 bytes OK
+2020/06/08-19:29:58.248 cd92 Delete type=0 #407
+2020/06/08-20:10:58.236 cd92 Level-0 table #412: started
+2020/06/08-20:10:58.241 cd92 Level-0 table #412: 12157 bytes OK
+2020/06/08-20:10:58.244 cd92 Delete type=0 #409
+2020/06/08-20:10:58.245 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-20:10:58.249 cd92 Generated table #413@0: 7 keys, 2231 bytes
+2020/06/08-20:10:58.249 cd92 Compacted 4@0 + 1@1 files => 2231 bytes
+2020/06/08-20:10:58.252 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-20:10:58.252 cd92 Delete type=2 #408
+2020/06/08-20:10:58.252 cd92 Delete type=2 #406
+2020/06/08-20:10:58.252 cd92 Delete type=2 #404
+2020/06/08-20:10:58.252 cd92 Delete type=2 #410
+2020/06/08-20:10:58.252 cd92 Delete type=2 #412
+2020/06/08-20:40:58.235 cd92 Level-0 table #415: started
+2020/06/08-20:40:58.257 cd92 Level-0 table #415: 12711 bytes OK
+2020/06/08-20:40:58.260 cd92 Delete type=0 #411
+2020/06/08-21:08:58.236 cd92 Level-0 table #417: started
+2020/06/08-21:08:58.245 cd92 Level-0 table #417: 13852 bytes OK
+2020/06/08-21:08:58.249 cd92 Delete type=0 #414
+2020/06/08-21:34:58.235 cd92 Level-0 table #419: started
+2020/06/08-21:34:58.241 cd92 Level-0 table #419: 12515 bytes OK
+2020/06/08-21:34:58.245 cd92 Delete type=0 #416
+2020/06/08-21:57:58.235 cd92 Level-0 table #421: started
+2020/06/08-21:57:58.240 cd92 Level-0 table #421: 12601 bytes OK
+2020/06/08-21:57:58.243 cd92 Delete type=0 #418
+2020/06/08-21:57:58.243 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-21:57:58.252 cd92 Generated table #422@0: 7 keys, 2520 bytes
+2020/06/08-21:57:58.252 cd92 Compacted 4@0 + 1@1 files => 2520 bytes
+2020/06/08-21:57:58.259 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-21:57:58.260 cd92 Delete type=2 #421
+2020/06/08-21:57:58.260 cd92 Delete type=2 #417
+2020/06/08-21:57:58.260 cd92 Delete type=2 #413
+2020/06/08-21:57:58.260 cd92 Delete type=2 #415
+2020/06/08-21:57:58.260 cd92 Delete type=2 #419
+2020/06/08-22:23:58.235 cd92 Level-0 table #424: started
+2020/06/08-22:23:58.241 cd92 Level-0 table #424: 13268 bytes OK
+2020/06/08-22:23:58.244 cd92 Delete type=0 #420
+2020/06/08-22:54:58.235 cd92 Level-0 table #426: started
+2020/06/08-22:54:58.244 cd92 Level-0 table #426: 11824 bytes OK
+2020/06/08-22:54:58.248 cd92 Delete type=0 #423
+2020/06/08-23:29:58.236 cd92 Level-0 table #428: started
+2020/06/08-23:29:58.241 cd92 Level-0 table #428: 12610 bytes OK
+2020/06/08-23:29:58.245 cd92 Delete type=0 #425
+2020/06/08-23:53:58.236 cd92 Level-0 table #430: started
+2020/06/08-23:53:58.240 cd92 Level-0 table #430: 12720 bytes OK
+2020/06/08-23:53:58.242 cd92 Delete type=0 #427
+2020/06/08-23:53:58.242 cd92 Compacting 4@0 + 1@1 files
+2020/06/08-23:53:58.245 cd92 Generated table #431@0: 7 keys, 2528 bytes
+2020/06/08-23:53:58.245 cd92 Compacted 4@0 + 1@1 files => 2528 bytes
+2020/06/08-23:53:58.248 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/08-23:53:58.248 cd92 Delete type=2 #428
+2020/06/08-23:53:58.248 cd92 Delete type=2 #430
+2020/06/08-23:53:58.248 cd92 Delete type=2 #424
+2020/06/08-23:53:58.248 cd92 Delete type=2 #422
+2020/06/08-23:53:58.248 cd92 Delete type=2 #426
+2020/06/09-00:21:58.235 cd92 Level-0 table #433: started
+2020/06/09-00:21:58.242 cd92 Level-0 table #433: 12415 bytes OK
+2020/06/09-00:21:58.245 cd92 Delete type=0 #429
+2020/06/09-00:52:58.234 cd92 Level-0 table #435: started
+2020/06/09-00:52:58.238 cd92 Level-0 table #435: 13524 bytes OK
+2020/06/09-00:52:58.241 cd92 Delete type=0 #432
+2020/06/09-01:20:58.237 cd92 Level-0 table #437: started
+2020/06/09-01:20:58.246 cd92 Level-0 table #437: 14235 bytes OK
+2020/06/09-01:20:58.249 cd92 Delete type=0 #434
+2020/06/09-01:47:58.236 cd92 Level-0 table #439: started
+2020/06/09-01:47:58.240 cd92 Level-0 table #439: 13079 bytes OK
+2020/06/09-01:47:58.243 cd92 Delete type=0 #436
+2020/06/09-01:47:58.243 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-01:47:58.247 cd92 Generated table #440@0: 7 keys, 2403 bytes
+2020/06/09-01:47:58.247 cd92 Compacted 4@0 + 1@1 files => 2403 bytes
+2020/06/09-01:47:58.249 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-01:47:58.250 cd92 Delete type=2 #435
+2020/06/09-01:47:58.250 cd92 Delete type=2 #439
+2020/06/09-01:47:58.250 cd92 Delete type=2 #433
+2020/06/09-01:47:58.250 cd92 Delete type=2 #431
+2020/06/09-01:47:58.250 cd92 Delete type=2 #437
+2020/06/09-02:12:58.236 cd92 Level-0 table #442: started
+2020/06/09-02:12:58.249 cd92 Level-0 table #442: 13417 bytes OK
+2020/06/09-02:12:58.255 cd92 Delete type=0 #438
+2020/06/09-02:34:58.236 cd92 Level-0 table #444: started
+2020/06/09-02:34:58.241 cd92 Level-0 table #444: 13757 bytes OK
+2020/06/09-02:34:58.245 cd92 Delete type=0 #441
+2020/06/09-02:52:58.237 cd92 Level-0 table #446: started
+2020/06/09-02:52:58.243 cd92 Level-0 table #446: 12267 bytes OK
+2020/06/09-02:52:58.246 cd92 Delete type=0 #443
+2020/06/09-03:10:58.237 cd92 Level-0 table #448: started
+2020/06/09-03:10:58.247 cd92 Level-0 table #448: 11897 bytes OK
+2020/06/09-03:10:58.250 cd92 Delete type=0 #445
+2020/06/09-03:10:58.250 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-03:10:58.259 cd92 Generated table #449@0: 7 keys, 2384 bytes
+2020/06/09-03:10:58.259 cd92 Compacted 4@0 + 1@1 files => 2384 bytes
+2020/06/09-03:10:58.262 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-03:10:58.262 cd92 Delete type=2 #446
+2020/06/09-03:10:58.262 cd92 Delete type=2 #440
+2020/06/09-03:10:58.262 cd92 Delete type=2 #444
+2020/06/09-03:10:58.262 cd92 Delete type=2 #442
+2020/06/09-03:10:58.262 cd92 Delete type=2 #448
+2020/06/09-03:32:58.235 cd92 Level-0 table #451: started
+2020/06/09-03:32:58.240 cd92 Level-0 table #451: 13651 bytes OK
+2020/06/09-03:32:58.243 cd92 Delete type=0 #447
+2020/06/09-04:07:58.234 cd92 Level-0 table #453: started
+2020/06/09-04:07:58.240 cd92 Level-0 table #453: 12452 bytes OK
+2020/06/09-04:07:58.243 cd92 Delete type=0 #450
+2020/06/09-04:36:58.235 cd92 Level-0 table #455: started
+2020/06/09-04:36:58.240 cd92 Level-0 table #455: 12577 bytes OK
+2020/06/09-04:36:58.244 cd92 Delete type=0 #452
+2020/06/09-05:06:58.234 cd92 Level-0 table #457: started
+2020/06/09-05:06:58.238 cd92 Level-0 table #457: 12510 bytes OK
+2020/06/09-05:06:58.242 cd92 Delete type=0 #454
+2020/06/09-05:06:58.242 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-05:06:58.251 cd92 Generated table #458@0: 7 keys, 2406 bytes
+2020/06/09-05:06:58.251 cd92 Compacted 4@0 + 1@1 files => 2406 bytes
+2020/06/09-05:06:58.254 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-05:06:58.254 cd92 Delete type=2 #449
+2020/06/09-05:06:58.254 cd92 Delete type=2 #455
+2020/06/09-05:06:58.255 cd92 Delete type=2 #457
+2020/06/09-05:06:58.255 cd92 Delete type=2 #451
+2020/06/09-05:06:58.255 cd92 Delete type=2 #453
+2020/06/09-05:36:58.237 cd92 Level-0 table #460: started
+2020/06/09-05:36:58.243 cd92 Level-0 table #460: 12389 bytes OK
+2020/06/09-05:36:58.246 cd92 Delete type=0 #456
+2020/06/09-06:02:58.236 cd92 Level-0 table #462: started
+2020/06/09-06:02:58.241 cd92 Level-0 table #462: 12664 bytes OK
+2020/06/09-06:02:58.245 cd92 Delete type=0 #459
+2020/06/09-06:28:58.235 cd92 Level-0 table #464: started
+2020/06/09-06:28:58.241 cd92 Level-0 table #464: 12466 bytes OK
+2020/06/09-06:28:58.244 cd92 Delete type=0 #461
+2020/06/09-06:54:58.237 cd92 Level-0 table #466: started
+2020/06/09-06:54:58.247 cd92 Level-0 table #466: 13033 bytes OK
+2020/06/09-06:54:58.250 cd92 Delete type=0 #463
+2020/06/09-06:54:58.251 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-06:54:58.255 cd92 Generated table #467@0: 7 keys, 2488 bytes
+2020/06/09-06:54:58.255 cd92 Compacted 4@0 + 1@1 files => 2488 bytes
+2020/06/09-06:54:58.258 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-06:54:58.258 cd92 Delete type=2 #466
+2020/06/09-06:54:58.258 cd92 Delete type=2 #460
+2020/06/09-06:54:58.258 cd92 Delete type=2 #462
+2020/06/09-06:54:58.258 cd92 Delete type=2 #464
+2020/06/09-06:54:58.258 cd92 Delete type=2 #458
+2020/06/09-07:28:58.238 cd92 Level-0 table #469: started
+2020/06/09-07:28:58.242 cd92 Level-0 table #469: 12888 bytes OK
+2020/06/09-07:28:58.245 cd92 Delete type=0 #465
+2020/06/09-08:00:58.234 cd92 Level-0 table #471: started
+2020/06/09-08:00:58.239 cd92 Level-0 table #471: 11790 bytes OK
+2020/06/09-08:00:58.242 cd92 Delete type=0 #468
+2020/06/09-08:22:58.234 cd92 Level-0 table #473: started
+2020/06/09-08:22:58.238 cd92 Level-0 table #473: 11194 bytes OK
+2020/06/09-08:22:58.246 cd92 Delete type=0 #470
+2020/06/09-08:53:58.237 cd92 Level-0 table #475: started
+2020/06/09-08:53:58.251 cd92 Level-0 table #475: 12536 bytes OK
+2020/06/09-08:53:58.259 cd92 Delete type=0 #472
+2020/06/09-08:53:58.259 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-08:53:58.263 cd92 Generated table #476@0: 7 keys, 2482 bytes
+2020/06/09-08:53:58.263 cd92 Compacted 4@0 + 1@1 files => 2482 bytes
+2020/06/09-08:53:58.267 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-08:53:58.267 cd92 Delete type=2 #469
+2020/06/09-08:53:58.267 cd92 Delete type=2 #475
+2020/06/09-08:53:58.267 cd92 Delete type=2 #471
+2020/06/09-08:53:58.267 cd92 Delete type=2 #473
+2020/06/09-08:53:58.267 cd92 Delete type=2 #467
+2020/06/09-09:25:58.237 cd92 Level-0 table #478: started
+2020/06/09-09:25:58.242 cd92 Level-0 table #478: 13356 bytes OK
+2020/06/09-09:25:58.246 cd92 Delete type=0 #474
+2020/06/09-09:52:58.237 cd92 Level-0 table #480: started
+2020/06/09-09:52:58.240 cd92 Level-0 table #480: 13333 bytes OK
+2020/06/09-09:52:58.243 cd92 Delete type=0 #477
+2020/06/09-10:20:58.231 cd92 Level-0 table #482: started
+2020/06/09-10:20:58.236 cd92 Level-0 table #482: 12602 bytes OK
+2020/06/09-10:20:58.238 cd92 Delete type=0 #479
+2020/06/09-10:42:58.233 cd92 Level-0 table #484: started
+2020/06/09-10:42:58.242 cd92 Level-0 table #484: 13686 bytes OK
+2020/06/09-10:42:58.245 cd92 Delete type=0 #481
+2020/06/09-10:42:58.245 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-10:42:58.248 cd92 Generated table #485@0: 7 keys, 2722 bytes
+2020/06/09-10:42:58.248 cd92 Compacted 4@0 + 1@1 files => 2722 bytes
+2020/06/09-10:42:58.250 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-10:42:58.250 cd92 Delete type=2 #484
+2020/06/09-10:42:58.250 cd92 Delete type=2 #476
+2020/06/09-10:42:58.250 cd92 Delete type=2 #482
+2020/06/09-10:42:58.250 cd92 Delete type=2 #480
+2020/06/09-10:42:58.250 cd92 Delete type=2 #478
+2020/06/09-11:02:58.234 cd92 Level-0 table #487: started
+2020/06/09-11:02:58.238 cd92 Level-0 table #487: 12899 bytes OK
+2020/06/09-11:02:58.247 cd92 Delete type=0 #483
+2020/06/09-11:20:58.231 cd92 Level-0 table #489: started
+2020/06/09-11:20:58.235 cd92 Level-0 table #489: 12156 bytes OK
+2020/06/09-11:20:58.238 cd92 Delete type=0 #486
+2020/06/09-11:41:58.234 cd92 Level-0 table #491: started
+2020/06/09-11:41:58.238 cd92 Level-0 table #491: 12522 bytes OK
+2020/06/09-11:41:58.241 cd92 Delete type=0 #488
+2020/06/09-12:04:58.230 cd92 Level-0 table #493: started
+2020/06/09-12:04:58.240 cd92 Level-0 table #493: 13200 bytes OK
+2020/06/09-12:04:58.244 cd92 Delete type=0 #490
+2020/06/09-12:04:58.244 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-12:04:58.248 cd92 Generated table #494@0: 7 keys, 2725 bytes
+2020/06/09-12:04:58.248 cd92 Compacted 4@0 + 1@1 files => 2725 bytes
+2020/06/09-12:04:58.251 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-12:04:58.251 cd92 Delete type=2 #493
+2020/06/09-12:04:58.251 cd92 Delete type=2 #489
+2020/06/09-12:04:58.251 cd92 Delete type=2 #491
+2020/06/09-12:04:58.251 cd92 Delete type=2 #485
+2020/06/09-12:04:58.251 cd92 Delete type=2 #487
+2020/06/09-12:38:58.235 cd92 Level-0 table #496: started
+2020/06/09-12:38:58.245 cd92 Level-0 table #496: 12487 bytes OK
+2020/06/09-12:38:58.249 cd92 Delete type=0 #492
+2020/06/09-13:05:58.235 cd92 Level-0 table #498: started
+2020/06/09-13:05:58.241 cd92 Level-0 table #498: 12482 bytes OK
+2020/06/09-13:05:58.244 cd92 Delete type=0 #495
+2020/06/09-13:34:58.232 cd92 Level-0 table #500: started
+2020/06/09-13:34:58.235 cd92 Level-0 table #500: 13337 bytes OK
+2020/06/09-13:34:58.238 cd92 Delete type=0 #497
+2020/06/09-14:05:58.235 cd92 Level-0 table #502: started
+2020/06/09-14:05:58.244 cd92 Level-0 table #502: 13412 bytes OK
+2020/06/09-14:05:58.248 cd92 Delete type=0 #499
+2020/06/09-14:05:58.248 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-14:05:58.256 cd92 Generated table #503@0: 7 keys, 2491 bytes
+2020/06/09-14:05:58.257 cd92 Compacted 4@0 + 1@1 files => 2491 bytes
+2020/06/09-14:05:58.260 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-14:05:58.260 cd92 Delete type=2 #496
+2020/06/09-14:05:58.260 cd92 Delete type=2 #494
+2020/06/09-14:05:58.260 cd92 Delete type=2 #500
+2020/06/09-14:05:58.260 cd92 Delete type=2 #498
+2020/06/09-14:05:58.260 cd92 Delete type=2 #502
+2020/06/09-14:30:58.239 cd92 Level-0 table #505: started
+2020/06/09-14:30:58.244 cd92 Level-0 table #505: 12649 bytes OK
+2020/06/09-14:30:58.247 cd92 Delete type=0 #501
+2020/06/09-14:55:58.235 cd92 Level-0 table #507: started
+2020/06/09-14:55:58.240 cd92 Level-0 table #507: 13348 bytes OK
+2020/06/09-14:55:58.243 cd92 Delete type=0 #504
+2020/06/09-15:18:58.235 cd92 Level-0 table #509: started
+2020/06/09-15:18:58.240 cd92 Level-0 table #509: 12712 bytes OK
+2020/06/09-15:18:58.243 cd92 Delete type=0 #506
+2020/06/09-15:47:58.232 cd92 Level-0 table #511: started
+2020/06/09-15:47:58.242 cd92 Level-0 table #511: 12428 bytes OK
+2020/06/09-15:47:58.245 cd92 Delete type=0 #508
+2020/06/09-15:47:58.245 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-15:47:58.248 cd92 Generated table #512@0: 7 keys, 2137 bytes
+2020/06/09-15:47:58.248 cd92 Compacted 4@0 + 1@1 files => 2137 bytes
+2020/06/09-15:47:58.251 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-15:47:58.252 cd92 Delete type=2 #509
+2020/06/09-15:47:58.252 cd92 Delete type=2 #507
+2020/06/09-15:47:58.252 cd92 Delete type=2 #503
+2020/06/09-15:47:58.252 cd92 Delete type=2 #505
+2020/06/09-15:47:58.252 cd92 Delete type=2 #511
+2020/06/09-16:25:58.238 cd92 Level-0 table #514: started
+2020/06/09-16:25:58.243 cd92 Level-0 table #514: 12855 bytes OK
+2020/06/09-16:25:58.247 cd92 Delete type=0 #510
+2020/06/09-16:46:58.233 cd92 Level-0 table #516: started
+2020/06/09-16:46:58.238 cd92 Level-0 table #516: 10977 bytes OK
+2020/06/09-16:46:58.245 cd92 Delete type=0 #513
+2020/06/09-17:13:58.234 cd92 Level-0 table #518: started
+2020/06/09-17:13:58.238 cd92 Level-0 table #518: 11802 bytes OK
+2020/06/09-17:13:58.240 cd92 Delete type=0 #515
+2020/06/09-17:42:58.231 cd92 Level-0 table #520: started
+2020/06/09-17:42:58.236 cd92 Level-0 table #520: 11584 bytes OK
+2020/06/09-17:42:58.239 cd92 Delete type=0 #517
+2020/06/09-17:42:58.239 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-17:42:58.242 cd92 Generated table #521@0: 7 keys, 2398 bytes
+2020/06/09-17:42:58.242 cd92 Compacted 4@0 + 1@1 files => 2398 bytes
+2020/06/09-17:42:58.250 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-17:42:58.250 cd92 Delete type=2 #516
+2020/06/09-17:42:58.250 cd92 Delete type=2 #520
+2020/06/09-17:42:58.250 cd92 Delete type=2 #512
+2020/06/09-17:42:58.250 cd92 Delete type=2 #518
+2020/06/09-17:42:58.250 cd92 Delete type=2 #514
+2020/06/09-18:05:58.230 cd92 Level-0 table #523: started
+2020/06/09-18:05:58.235 cd92 Level-0 table #523: 11679 bytes OK
+2020/06/09-18:05:58.238 cd92 Delete type=0 #519
+2020/06/09-18:34:58.236 cd92 Level-0 table #525: started
+2020/06/09-18:34:58.246 cd92 Level-0 table #525: 12141 bytes OK
+2020/06/09-18:34:58.249 cd92 Delete type=0 #522
+2020/06/09-19:00:58.239 cd92 Level-0 table #527: started
+2020/06/09-19:00:58.244 cd92 Level-0 table #527: 12575 bytes OK
+2020/06/09-19:00:58.247 cd92 Delete type=0 #524
+2020/06/09-19:21:58.233 cd92 Level-0 table #529: started
+2020/06/09-19:21:58.236 cd92 Level-0 table #529: 13751 bytes OK
+2020/06/09-19:21:58.239 cd92 Delete type=0 #526
+2020/06/09-19:21:58.239 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-19:21:58.242 cd92 Generated table #530@0: 7 keys, 2722 bytes
+2020/06/09-19:21:58.242 cd92 Compacted 4@0 + 1@1 files => 2722 bytes
+2020/06/09-19:21:58.245 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-19:21:58.245 cd92 Delete type=2 #523
+2020/06/09-19:21:58.245 cd92 Delete type=2 #529
+2020/06/09-19:21:58.245 cd92 Delete type=2 #527
+2020/06/09-19:21:58.245 cd92 Delete type=2 #525
+2020/06/09-19:21:58.245 cd92 Delete type=2 #521
+2020/06/09-19:42:58.237 cd92 Level-0 table #532: started
+2020/06/09-19:42:58.248 cd92 Level-0 table #532: 13629 bytes OK
+2020/06/09-19:42:58.252 cd92 Delete type=0 #528
+2020/06/09-20:10:58.236 cd92 Level-0 table #534: started
+2020/06/09-20:10:58.240 cd92 Level-0 table #534: 15875 bytes OK
+2020/06/09-20:10:58.243 cd92 Delete type=0 #531
+2020/06/09-20:51:58.236 cd92 Level-0 table #536: started
+2020/06/09-20:51:58.244 cd92 Level-0 table #536: 13976 bytes OK
+2020/06/09-20:51:58.247 cd92 Delete type=0 #533
+2020/06/09-21:24:58.234 cd92 Level-0 table #538: started
+2020/06/09-21:24:58.237 cd92 Level-0 table #538: 12030 bytes OK
+2020/06/09-21:24:58.241 cd92 Delete type=0 #535
+2020/06/09-21:24:58.241 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-21:24:58.245 cd92 Generated table #539@0: 7 keys, 2132 bytes
+2020/06/09-21:24:58.245 cd92 Compacted 4@0 + 1@1 files => 2132 bytes
+2020/06/09-21:24:58.248 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-21:24:58.248 cd92 Delete type=2 #530
+2020/06/09-21:24:58.248 cd92 Delete type=2 #538
+2020/06/09-21:24:58.248 cd92 Delete type=2 #532
+2020/06/09-21:24:58.248 cd92 Delete type=2 #536
+2020/06/09-21:24:58.248 cd92 Delete type=2 #534
+2020/06/09-21:48:58.232 cd92 Level-0 table #541: started
+2020/06/09-21:48:58.238 cd92 Level-0 table #541: 11717 bytes OK
+2020/06/09-21:48:58.240 cd92 Delete type=0 #537
+2020/06/09-22:16:58.240 cd92 Level-0 table #543: started
+2020/06/09-22:16:58.245 cd92 Level-0 table #543: 12425 bytes OK
+2020/06/09-22:16:58.249 cd92 Delete type=0 #540
+2020/06/09-22:45:58.236 cd92 Level-0 table #545: started
+2020/06/09-22:45:58.240 cd92 Level-0 table #545: 13292 bytes OK
+2020/06/09-22:45:58.243 cd92 Delete type=0 #542
+2020/06/09-23:15:58.241 cd92 Level-0 table #547: started
+2020/06/09-23:15:58.249 cd92 Level-0 table #547: 12791 bytes OK
+2020/06/09-23:15:58.253 cd92 Delete type=0 #544
+2020/06/09-23:15:58.253 cd92 Compacting 4@0 + 1@1 files
+2020/06/09-23:15:58.261 cd92 Generated table #548@0: 7 keys, 2492 bytes
+2020/06/09-23:15:58.261 cd92 Compacted 4@0 + 1@1 files => 2492 bytes
+2020/06/09-23:15:58.264 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/09-23:15:58.264 cd92 Delete type=2 #545
+2020/06/09-23:15:58.264 cd92 Delete type=2 #543
+2020/06/09-23:15:58.264 cd92 Delete type=2 #539
+2020/06/09-23:15:58.264 cd92 Delete type=2 #547
+2020/06/09-23:15:58.264 cd92 Delete type=2 #541
+2020/06/09-23:43:58.231 cd92 Level-0 table #550: started
+2020/06/09-23:43:58.236 cd92 Level-0 table #550: 12369 bytes OK
+2020/06/09-23:43:58.239 cd92 Delete type=0 #546
+2020/06/10-00:09:58.233 cd92 Level-0 table #552: started
+2020/06/10-00:09:58.237 cd92 Level-0 table #552: 13302 bytes OK
+2020/06/10-00:09:58.240 cd92 Delete type=0 #549
+2020/06/10-00:34:58.238 cd92 Level-0 table #554: started
+2020/06/10-00:34:58.242 cd92 Level-0 table #554: 13573 bytes OK
+2020/06/10-00:34:58.251 cd92 Delete type=0 #551
+2020/06/10-01:07:58.237 cd92 Level-0 table #556: started
+2020/06/10-01:07:58.242 cd92 Level-0 table #556: 12659 bytes OK
+2020/06/10-01:07:58.245 cd92 Delete type=0 #553
+2020/06/10-01:07:58.246 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-01:07:58.250 cd92 Generated table #557@0: 7 keys, 2143 bytes
+2020/06/10-01:07:58.250 cd92 Compacted 4@0 + 1@1 files => 2143 bytes
+2020/06/10-01:07:58.253 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-01:07:58.253 cd92 Delete type=2 #556
+2020/06/10-01:07:58.253 cd92 Delete type=2 #550
+2020/06/10-01:07:58.253 cd92 Delete type=2 #554
+2020/06/10-01:07:58.253 cd92 Delete type=2 #552
+2020/06/10-01:07:58.253 cd92 Delete type=2 #548
+2020/06/10-01:41:58.233 cd92 Level-0 table #559: started
+2020/06/10-01:41:58.236 cd92 Level-0 table #559: 12147 bytes OK
+2020/06/10-01:41:58.239 cd92 Delete type=0 #555
+2020/06/10-02:05:58.238 cd92 Level-0 table #561: started
+2020/06/10-02:05:58.244 cd92 Level-0 table #561: 12024 bytes OK
+2020/06/10-02:05:58.248 cd92 Delete type=0 #558
+2020/06/10-02:35:58.243 cd92 Level-0 table #563: started
+2020/06/10-02:35:58.252 cd92 Level-0 table #563: 12762 bytes OK
+2020/06/10-02:35:58.259 cd92 Delete type=0 #560
+2020/06/10-03:03:58.241 cd92 Level-0 table #565: started
+2020/06/10-03:03:58.247 cd92 Level-0 table #565: 12776 bytes OK
+2020/06/10-03:03:58.250 cd92 Delete type=0 #562
+2020/06/10-03:03:58.250 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-03:03:58.254 cd92 Generated table #566@0: 7 keys, 2407 bytes
+2020/06/10-03:03:58.254 cd92 Compacted 4@0 + 1@1 files => 2407 bytes
+2020/06/10-03:03:58.259 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-03:03:58.260 cd92 Delete type=2 #565
+2020/06/10-03:03:58.260 cd92 Delete type=2 #559
+2020/06/10-03:03:58.260 cd92 Delete type=2 #563
+2020/06/10-03:03:58.260 cd92 Delete type=2 #561
+2020/06/10-03:03:58.260 cd92 Delete type=2 #557
+2020/06/10-03:24:58.237 cd92 Level-0 table #568: started
+2020/06/10-03:24:58.242 cd92 Level-0 table #568: 13102 bytes OK
+2020/06/10-03:24:58.250 cd92 Delete type=0 #564
+2020/06/10-03:45:58.231 cd92 Level-0 table #570: started
+2020/06/10-03:45:58.241 cd92 Level-0 table #570: 13624 bytes OK
+2020/06/10-03:45:58.244 cd92 Delete type=0 #567
+2020/06/10-04:14:58.228 cd92 Level-0 table #572: started
+2020/06/10-04:14:58.231 cd92 Level-0 table #572: 15848 bytes OK
+2020/06/10-04:14:58.234 cd92 Delete type=0 #569
+2020/06/10-04:57:58.234 cd92 Level-0 table #574: started
+2020/06/10-04:57:58.239 cd92 Level-0 table #574: 13731 bytes OK
+2020/06/10-04:57:58.243 cd92 Delete type=0 #571
+2020/06/10-04:57:58.243 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-04:57:58.251 cd92 Generated table #575@0: 7 keys, 2486 bytes
+2020/06/10-04:57:58.252 cd92 Compacted 4@0 + 1@1 files => 2486 bytes
+2020/06/10-04:57:58.254 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-04:57:58.255 cd92 Delete type=2 #574
+2020/06/10-04:57:58.255 cd92 Delete type=2 #568
+2020/06/10-04:57:58.255 cd92 Delete type=2 #566
+2020/06/10-04:57:58.255 cd92 Delete type=2 #572
+2020/06/10-04:57:58.255 cd92 Delete type=2 #570
+2020/06/10-05:34:58.241 cd92 Level-0 table #577: started
+2020/06/10-05:34:58.246 cd92 Level-0 table #577: 12845 bytes OK
+2020/06/10-05:34:58.249 cd92 Delete type=0 #573
+2020/06/10-05:57:58.233 cd92 Level-0 table #579: started
+2020/06/10-05:57:58.237 cd92 Level-0 table #579: 11078 bytes OK
+2020/06/10-05:57:58.239 cd92 Delete type=0 #576
+2020/06/10-06:25:58.233 cd92 Level-0 table #581: started
+2020/06/10-06:25:58.240 cd92 Level-0 table #581: 12450 bytes OK
+2020/06/10-06:25:58.245 cd92 Delete type=0 #578
+2020/06/10-06:55:58.235 cd92 Level-0 table #583: started
+2020/06/10-06:55:58.239 cd92 Level-0 table #583: 12377 bytes OK
+2020/06/10-06:55:58.242 cd92 Delete type=0 #580
+2020/06/10-06:55:58.242 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-06:55:58.246 cd92 Generated table #584@0: 7 keys, 2485 bytes
+2020/06/10-06:55:58.246 cd92 Compacted 4@0 + 1@1 files => 2485 bytes
+2020/06/10-06:55:58.248 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-06:55:58.248 cd92 Delete type=2 #583
+2020/06/10-06:55:58.248 cd92 Delete type=2 #577
+2020/06/10-06:55:58.248 cd92 Delete type=2 #579
+2020/06/10-06:55:58.248 cd92 Delete type=2 #581
+2020/06/10-06:55:58.248 cd92 Delete type=2 #575
+2020/06/10-07:27:58.227 cd92 Level-0 table #586: started
+2020/06/10-07:27:58.232 cd92 Level-0 table #586: 13350 bytes OK
+2020/06/10-07:27:58.236 cd92 Delete type=0 #582
+2020/06/10-07:55:58.243 cd92 Level-0 table #588: started
+2020/06/10-07:55:58.253 cd92 Level-0 table #588: 13423 bytes OK
+2020/06/10-07:55:58.256 cd92 Delete type=0 #585
+2020/06/10-08:22:58.243 cd92 Level-0 table #590: started
+2020/06/10-08:22:58.248 cd92 Level-0 table #590: 13373 bytes OK
+2020/06/10-08:22:58.251 cd92 Delete type=0 #587
+2020/06/10-08:48:58.245 cd92 Level-0 table #592: started
+2020/06/10-08:48:58.258 cd92 Level-0 table #592: 13527 bytes OK
+2020/06/10-08:48:58.262 cd92 Delete type=0 #589
+2020/06/10-08:48:58.262 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-08:48:58.267 cd92 Generated table #593@0: 7 keys, 2480 bytes
+2020/06/10-08:48:58.267 cd92 Compacted 4@0 + 1@1 files => 2480 bytes
+2020/06/10-08:48:58.270 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-08:48:58.270 cd92 Delete type=2 #584
+2020/06/10-08:48:58.270 cd92 Delete type=2 #592
+2020/06/10-08:48:58.270 cd92 Delete type=2 #590
+2020/06/10-08:48:58.270 cd92 Delete type=2 #588
+2020/06/10-08:48:58.270 cd92 Delete type=2 #586
+2020/06/10-09:21:58.236 cd92 Level-0 table #595: started
+2020/06/10-09:21:58.242 cd92 Level-0 table #595: 13548 bytes OK
+2020/06/10-09:21:58.245 cd92 Delete type=0 #591
+2020/06/10-09:57:58.237 cd92 Level-0 table #597: started
+2020/06/10-09:57:58.242 cd92 Level-0 table #597: 12190 bytes OK
+2020/06/10-09:57:58.245 cd92 Delete type=0 #594
+2020/06/10-10:22:58.241 cd92 Level-0 table #599: started
+2020/06/10-10:22:58.246 cd92 Level-0 table #599: 12640 bytes OK
+2020/06/10-10:22:58.250 cd92 Delete type=0 #596
+2020/06/10-10:51:58.238 cd92 Level-0 table #601: started
+2020/06/10-10:51:58.243 cd92 Level-0 table #601: 12293 bytes OK
+2020/06/10-10:51:58.247 cd92 Delete type=0 #598
+2020/06/10-10:51:58.247 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-10:51:58.251 cd92 Generated table #602@0: 7 keys, 2406 bytes
+2020/06/10-10:51:58.251 cd92 Compacted 4@0 + 1@1 files => 2406 bytes
+2020/06/10-10:51:58.254 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-10:51:58.254 cd92 Delete type=2 #599
+2020/06/10-10:51:58.254 cd92 Delete type=2 #593
+2020/06/10-10:51:58.254 cd92 Delete type=2 #601
+2020/06/10-10:51:58.254 cd92 Delete type=2 #597
+2020/06/10-10:51:58.254 cd92 Delete type=2 #595
+2020/06/10-11:17:58.225 cd92 Level-0 table #604: started
+2020/06/10-11:17:58.230 cd92 Level-0 table #604: 13308 bytes OK
+2020/06/10-11:17:58.234 cd92 Delete type=0 #600
+2020/06/10-11:37:58.238 cd92 Level-0 table #606: started
+2020/06/10-11:37:58.242 cd92 Level-0 table #606: 12860 bytes OK
+2020/06/10-11:37:58.245 cd92 Delete type=0 #603
+2020/06/10-12:00:58.229 cd92 Level-0 table #608: started
+2020/06/10-12:00:58.239 cd92 Level-0 table #608: 14155 bytes OK
+2020/06/10-12:00:58.243 cd92 Delete type=0 #605
+2020/06/10-12:33:58.236 cd92 Level-0 table #610: started
+2020/06/10-12:33:58.245 cd92 Level-0 table #610: 15401 bytes OK
+2020/06/10-12:33:58.249 cd92 Delete type=0 #607
+2020/06/10-12:33:58.249 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-12:33:58.254 cd92 Generated table #611@0: 7 keys, 2316 bytes
+2020/06/10-12:33:58.254 cd92 Compacted 4@0 + 1@1 files => 2316 bytes
+2020/06/10-12:33:58.257 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-12:33:58.257 cd92 Delete type=2 #608
+2020/06/10-12:33:58.257 cd92 Delete type=2 #610
+2020/06/10-12:33:58.257 cd92 Delete type=2 #604
+2020/06/10-12:33:58.257 cd92 Delete type=2 #602
+2020/06/10-12:33:58.257 cd92 Delete type=2 #606
+2020/06/10-13:13:58.230 cd92 Level-0 table #613: started
+2020/06/10-13:13:58.240 cd92 Level-0 table #613: 13506 bytes OK
+2020/06/10-13:13:58.247 cd92 Delete type=0 #609
+2020/06/10-13:46:58.235 cd92 Level-0 table #615: started
+2020/06/10-13:46:58.240 cd92 Level-0 table #615: 12541 bytes OK
+2020/06/10-13:46:58.243 cd92 Delete type=0 #612
+2020/06/10-14:13:58.237 cd92 Level-0 table #617: started
+2020/06/10-14:13:58.246 cd92 Level-0 table #617: 12616 bytes OK
+2020/06/10-14:13:58.249 cd92 Delete type=0 #614
+2020/06/10-14:42:58.234 cd92 Level-0 table #619: started
+2020/06/10-14:42:58.238 cd92 Level-0 table #619: 13256 bytes OK
+2020/06/10-14:42:58.241 cd92 Delete type=0 #616
+2020/06/10-14:42:58.242 cd92 Compacting 4@0 + 1@1 files
+2020/06/10-14:42:58.246 cd92 Generated table #620@0: 7 keys, 2409 bytes
+2020/06/10-14:42:58.246 cd92 Compacted 4@0 + 1@1 files => 2409 bytes
+2020/06/10-14:42:58.249 cd92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-14:42:58.249 cd92 Delete type=2 #611
+2020/06/10-14:42:58.249 cd92 Delete type=2 #615
+2020/06/10-14:42:58.249 cd92 Delete type=2 #613
+2020/06/10-14:42:58.249 cd92 Delete type=2 #617
+2020/06/10-14:42:58.249 cd92 Delete type=2 #619
+2020/06/10-15:12:58.230 cd92 Level-0 table #622: started
+2020/06/10-15:12:58.235 cd92 Level-0 table #622: 13397 bytes OK
+2020/06/10-15:12:58.238 cd92 Delete type=0 #618
+2020/06/10-15:39:58.230 cd92 Level-0 table #624: started
+2020/06/10-15:39:58.233 cd92 Level-0 table #624: 12666 bytes OK
+2020/06/10-15:39:58.236 cd92 Delete type=0 #621
