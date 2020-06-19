@@ -1,3 +1,0 @@
-[Error  - 03:38:21.145] Migrating token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
-[Error  - 03:38:21.178] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
-[Error  - 03:38:51.189] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files

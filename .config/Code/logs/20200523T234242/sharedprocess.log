@@ -1,3 +1,0 @@
-[2020-05-23 23:42:45.769] [sharedprocess] [info] main {"machineId":"d68f99d1d00352a1d58c2c085b7be2dbecc0d33f8a8b490ae948b42a7bbf026d","windowId":2}
-[2020-05-23 23:42:45.781] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ross/.config/Code/User/snippets'
-[2020-05-23 23:43:25.777] [sharedprocess] [info] Starting to clean up unused language packs.
