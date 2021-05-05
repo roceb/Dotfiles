@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+ps -eo comm,%mem,pid --sort -%mem h | head

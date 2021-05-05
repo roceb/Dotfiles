@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+free  | awk 'FNR==2{print $3 "/"$2 " * 100"}' | bc -l | cut -b 1-2 |  awk '{print " "$1 "%"}'

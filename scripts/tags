@@ -1,0 +1,4 @@
+#! /usr/bin/env bash 
+
+echo Local: $(git tag)
+echo Remote: $(git ls-remote --tags | pae 's,.*/,,')

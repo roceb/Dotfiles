@@ -1,0 +1,10 @@
+#! /usr/bin/env bash
+
+for f in ~/dotfiles/scripts/*; 
+do
+	filename=$(basename $f)
+	echo "$filename"
+	ln -sf ~/dotfiles/scripts/"$filename" ~/.scripts/"$filename" 
+	chmod +x ~/.scripts/"$filename"
+done
+
