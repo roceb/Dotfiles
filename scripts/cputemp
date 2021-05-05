@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+sensors | awk '/^temp1/ {print $2}' | cut -c 2- |cut -c-2 | awk '{print  " "$1}'

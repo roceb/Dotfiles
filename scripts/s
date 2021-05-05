@@ -1,0 +1,5 @@
+#! /bin/sh
+
+info=$*
+
+echo '*'"$info" >~/.weechat/weechat_fifo

@@ -4,7 +4,7 @@
 
 `mpd ncmpcpp newsboat vim zsh weechat firefox alacritty htop rofi nnn mpd mpv nitrogen xorg openvpn`
 
-Spotify from the main website `https://www.spotify.com/us/download/other/`
+Spotify from the main website `https://github.com/hrkfdn/ncspot`
 
 Picom `https://github.com/ibhagwan/picom`
 

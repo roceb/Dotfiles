@@ -51,27 +51,33 @@ alias PAC='sudo pacman'
 alias jrnl='~/.local/bin/jrnl'
 alias startvpn='sudo /home/ross/.config/polybar/scripts/startVPN.sh'
 alias SS='sudo systemctl'
+alias '?'=duck
+alias sc='cd ~/.scripts'
 
 # Alias to Config settings
-alias vimrc='$EDITOR ~/.vimrc'
-alias zshrc='v ~/.zshrc'
-alias bspwmrc='nvim ~/home/ross/.config/bspwm/bspwmrc'
-alias spectrwmrc='vim ~/.spectrwm.conf'
-alias alaconfig='vim ~/.config/alacritty/alacritty.yml'
-alias wmrc='vim ~/.spectrwm.conf'
-# Alias for folders
-
-alias Pr='cd ~/Programming'
-alias Prn='cd ~/Programming/Nodejs'
-alias Music='cd ~/Music'
-alias Pack='cd ~/Programming/packages'
-alias notes='cd ~/Programming/notes'
-alias conf='cd ~/.config'
+alias vimrc='$EDITOR ~/.config/nvim/init.vim'
+alias zshrc='$EDITOR ~/.zshrc'
+alias bspwmrc='$EDITOR ~/home/ross/.config/bspwm/bspwmrc'
+alias spectrwmrc='$EDITOR ~/.spectrwm.conf'
+alias alaconfig='$EDITOR ~/.config/alacritty/alacritty.yml'
+alias wmrc='$EDITOR ~/.spectrwm.conf'
 function take() {
   mkdir -p $@ && cd ${@:$#}
 }
-
-python /home/ross/.scripts/qod.py
+function chpwd() {
+    emulate -L zsh
+    exa -a --group-directories-first
+}
+function rmd(){
+  rm -Irf $@
+}
+export TWITCHSECRET=3ggwnj5wznosn2y9lnsu3v2epyc612
+export TWITCHKEY=22ikwl8m54z8uw9lijx58u92eati1l
+export AUTHCONF=/home/ross/.config/auth/config
+export TWITCH_CHANID=67444988
+source ~/.config/.folderalias
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${HOME}/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ${HOME}/.zsh/zsh-vim-mode/zsh-vim-mode.plugin.zsh
+
+echo "$(</home/ross/.scripts/quotes/$(date +"%Y-%m-%d").txt)"
