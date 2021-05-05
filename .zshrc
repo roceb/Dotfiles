@@ -71,11 +71,8 @@ function chpwd() {
 function rmd(){
   rm -Irf $@
 }
-export TWITCHSECRET=3ggwnj5wznosn2y9lnsu3v2epyc612
-export TWITCHKEY=22ikwl8m54z8uw9lijx58u92eati1l
-export AUTHCONF=/home/ross/.config/auth/config
-export TWITCH_CHANID=67444988
-source ~/.config/.folderalias
+source ~/.config/.folderalias 
+source ~/.env
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${HOME}/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ${HOME}/.zsh/zsh-vim-mode/zsh-vim-mode.plugin.zsh
