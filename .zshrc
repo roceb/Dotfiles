@@ -40,38 +40,35 @@ alias sv='sudo $EDITOR'
 alias vim='$EDITOR'
 alias venv='source env/bin/activate'
 alias py='python'
-alias playing='spotifycli --status'
-alias play='spotifycli --play'
-alias next='spotifycli --next'
-alias prev='spotifycli --prev'
-alias pause='spotifycli --pause'
-alias ls='exa -a --group-directories-first'
+alias ls='exa --group-directories-first'
 alias lu='exa -a -T --level=2'
 alias PAC='sudo pacman'
 alias jrnl='~/.local/bin/jrnl'
 alias startvpn='sudo /home/ross/.config/polybar/scripts/startVPN.sh'
 alias SS='sudo systemctl'
+alias '?'=duck
 
 # Alias to Config settings
-alias vimrc='$EDITOR ~/.vimrc'
-alias zshrc='v ~/.zshrc'
-alias bspwmrc='nvim ~/home/ross/.config/bspwm/bspwmrc'
-alias spectrwmrc='vim ~/.spectrwm.conf'
-alias alaconfig='vim ~/.config/alacritty/alacritty.yml'
-alias wmrc='vim ~/.spectrwm.conf'
-# Alias for folders
-
-alias Pr='cd ~/Programming'
-alias Prn='cd ~/Programming/Nodejs'
-alias Music='cd ~/Music'
-alias Pack='cd ~/Programming/packages'
-alias notes='cd ~/Programming/notes'
-alias conf='cd ~/.config'
+alias vimrc='$EDITOR ~/.config/nvim/init.vim'
+alias zshrc='$EDITOR ~/.zshrc'
+alias bspwmrc='$EDITOR ~/home/ross/.config/bspwm/bspwmrc'
+alias sxhrc='$EDITOR ~/home/ross/.config/sxhkd/sxhkdrc'
+alias spectrwmrc='$EDITOR ~/.spectrwm.conf'
+alias alaconfig='$EDITOR ~/.config/alacritty/alacritty.yml'
+alias wmrc='$EDITOR ~/.spectrwm.conf'
+alias folderrc='$EDITOR ~/.config/.folderalias'
 function take() {
   mkdir -p $@ && cd ${@:$#}
 }
-
-python /home/ross/.scripts/qod.py
+function chpwd() {
+    emulate -L zsh
+    exa --group-directories-first
+}
+function rmd(){
+  rm -Irf $@
+}
+source ~/.config/.folderalias
+source ~/.env
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${HOME}/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ${HOME}/.zsh/zsh-vim-mode/zsh-vim-mode.plugin.zsh

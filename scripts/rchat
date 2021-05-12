@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo '*/set weechat.bar.buflist.hidden toggle' >~/.weechat/weechat_fifo
+echo '*/set weechat.bar.input.hidden toggle' >~/.weechat/weechat_fifo
+echo '*/set weechat.bar.nicklist.hidden toggle' >~/.weechat/weechat_fifo

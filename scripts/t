@@ -1,0 +1,24 @@
+#! /usr/bin/env bash
+
+topic="$*"
+
+while test -z "${topic}"; do
+  read -p "Topic: " topic
+done
+
+
+
+TWITCH_TOKEN=$(auth token twitch)
+TWITCH_CLIENTID=$(auth get id twitch)
+
+set_twitch_title () {
+curl -s  -X PATCH \
+  "https://api.twitch.tv/helix/channels?broadcaster_id=$TWITCH_CHANID" \
+  -H "Client-ID: $TWITCH_CLIENTID" \
+  -H "Authorization: Bearer $TWITCH_TOKEN" \
+  -H 'Content-Type: application/json' \
+  -d '{"title":"'"$topic "'"}' #> /dev/null
+#twitch mark "$zsetid"
+}
+
+set_twitch_title
