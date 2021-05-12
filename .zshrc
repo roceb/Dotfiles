@@ -40,33 +40,29 @@ alias sv='sudo $EDITOR'
 alias vim='$EDITOR'
 alias venv='source env/bin/activate'
 alias py='python'
-alias playing='spotifycli --status'
-alias play='spotifycli --play'
-alias next='spotifycli --next'
-alias prev='spotifycli --prev'
-alias pause='spotifycli --pause'
-alias ls='exa -a --group-directories-first'
+alias ls='exa --group-directories-first'
 alias lu='exa -a -T --level=2'
 alias PAC='sudo pacman'
 alias jrnl='~/.local/bin/jrnl'
 alias startvpn='sudo /home/ross/.config/polybar/scripts/startVPN.sh'
 alias SS='sudo systemctl'
 alias '?'=duck
-alias sc='cd ~/.scripts'
 
 # Alias to Config settings
 alias vimrc='$EDITOR ~/.config/nvim/init.vim'
 alias zshrc='$EDITOR ~/.zshrc'
 alias bspwmrc='$EDITOR ~/home/ross/.config/bspwm/bspwmrc'
+alias sxhrc='$EDITOR ~/home/ross/.config/sxhkd/sxhkdrc'
 alias spectrwmrc='$EDITOR ~/.spectrwm.conf'
 alias alaconfig='$EDITOR ~/.config/alacritty/alacritty.yml'
 alias wmrc='$EDITOR ~/.spectrwm.conf'
+alias folderrc='$EDITOR ~/.config/.folderalias'
 function take() {
   mkdir -p $@ && cd ${@:$#}
 }
 function chpwd() {
     emulate -L zsh
-    exa -a --group-directories-first
+    exa --group-directories-first
 }
 function rmd(){
   rm -Irf $@

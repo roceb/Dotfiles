@@ -7,8 +7,8 @@ super + Return
 	alacritty
 
 # apps
-super + shift + {b,c,f,m,s,n,y}
-	{firefox,code,pcmanfm,alacritty -e ncmpcpp,alacritty -e scrcpy -sx -m 1920,alacritty -e newsboat, alacritty -e youtube-viewer}
+super + shift + {b}
+	{firefox}
 
 # media keys
 # XF86Audio{Next,Prev,Play,Stop}
@@ -26,7 +26,7 @@ XF86Audio{RaiseVolume,LowerVolume,Mute}
     pamixer {-i 5, -d 5,-t}
 # program launcher
 super + space
-	rofi -show drun
+	rofi -show run
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -137,3 +137,7 @@ super + alt + shift + {h,j,k,l}
 # move a floating window
 super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# move current window to preselected space
+super + alt + m
+    bspc node -n last.!automatic
