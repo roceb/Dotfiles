@@ -9,7 +9,7 @@ done
 
 
 TWITCH_TOKEN=$(auth token twitch)
-TWITCH_CLIENTID=$(auth getid twitch)
+TWITCH_CLIENTID=$(auth get id twitch)
 
 set_twitch_title () {
 curl -s  -X PATCH \

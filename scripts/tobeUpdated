@@ -1,0 +1,4 @@
+#! /bin/sh
+
+pacman -Qu | awk '{print $1}'
+
