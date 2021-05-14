@@ -1,0 +1,7 @@
+#! /bin/sh
+
+browser-sync start \
+	--no-notify --no-ui \
+	--ignore '**/.*' \
+	-sw
+

@@ -1,0 +1,23 @@
+#! /bin/sh
+
+arg=$1
+status=$(pomodoro status)
+if [ -z "$arg" ]; then
+	break
+elif [ "$arg" = "s" ]; then
+	pomodoro cancel
+	exit 0
+elif [ "$arg" = "c" ]; then
+	pomodoro clear
+	exit 0
+elif [ "${arg##+([0-9])}"]; then
+	pomodoro start --duration $arg
+	exit 0
+fi
+
+if [ -z "${status}" ];
+then
+	pomodoro start
+else 
+	echo "$status"
+fi

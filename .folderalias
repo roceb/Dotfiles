@@ -1,0 +1,14 @@
+# Alias for folders
+
+alias Pr='cd ~/Programming'
+alias Prp='cd ~/Programming/Python'
+alias Prg='cd ~/Programming/Go'
+alias Prn='cd ~/Programming/Nodejs'
+alias Algo='cd ~/Programming/Algo'
+alias Music='cd ~/Music'
+alias Pack='cd ~/Programming/packages'
+alias notes='cd ~/Programming/notes'
+alias conf='cd ~/.config'
+alias sc='cd ~/dotfiles/scripts'
+alias pgo='cd ~/Programming/Go/code'
+alias blog='cd /home/ross/Programming/packages/rocebxyz'
