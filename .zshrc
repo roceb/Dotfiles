@@ -67,11 +67,7 @@ function chpwd() {
 function rmd(){
   rm -Irf $@
 }
-<<<<<<< HEAD
-source ~/.config/.folderalias 
-=======
-source ~/.config/.folderalias
->>>>>>> 5e5bbe65 ([refactor](nvim) Adds compe and LSP to nvim by lua)
+source ~/.config/folderalias
 source ~/.env
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${HOME}/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
