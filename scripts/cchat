@@ -1,0 +1,3 @@
+#! /bin/sh
+
+echo '*/buffer clear'>~/.weechat/weechat_fifo

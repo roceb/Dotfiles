@@ -76,9 +76,20 @@ let g:netrw_winsize = 25
 nnoremap <leader>u :UndotreeShow<CR>
 nnoremap <leader>pv :wincmd v<bar> :Lexplore <bar> :vertical resize 30<CR>
 
+" Go Shortcuts
+autocmd FileType go map <buffer> <F12> :GoTest<CR>
+autocmd FileType go imap <buffer> <F12> :GoTest<CR>
+autocmd FileType go map <buffer> <F10> :GoBuild<CR>
+autocmd FileType go imap <buffer> <F10> :GoBuild<CR>
+autocmd FileType go map <buffer> <F1> :GoRun<CR>
+autocmd FileType go map <buffer> <F1> :GoRun<CR>
+autocmd FileType go nmap <leader>t  <Plug>(go-test)
+autocmd FileType go nmap <leader>b  <Plug>(go-build)
+autocmd FileType go nmap <leader>r  <Plug>(go-run)
+
 " Run Script
 nmap <leader>r :! ./%<CR>
-nmap <leader>gt :w<CR>:! go test<CR>
+
 " Tab managing
 nnoremap <leader>e :tabe<Space>
 nnoremap <leader>n :tabnew<CR>
